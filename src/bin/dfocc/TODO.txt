@@ -1,5 +1,0 @@
-* Cholesky decomposition 
-* Analytic gradients
-* OSCS-MP2
-* QC-SCF 
-* Extended Huckel Guess
