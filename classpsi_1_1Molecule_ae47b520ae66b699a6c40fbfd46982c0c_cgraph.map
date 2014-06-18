@@ -1,0 +1,16 @@
+<map id="psi::Molecule::reinterpret_coordentries" name="psi::Molecule::reinterpret_coordentries">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#a21c96046b307c2529536f5ffe3432b9a" title="Returns the cleaned up label of the atom (C2 =&gt; C, H4 = H)" alt="" coords="227,138,376,165"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#aca8cf1d52cf307553686e56f12c83e35" title="psi::Molecule::symmetry\l_frame" alt="" coords="219,189,384,231"/>
+<area shape="rect" id="node13" href="$classpsi_1_1Molecule.html#aa1e1f66df390b050ba7605fe2b70e90f" title="Moves molecule to center of mass." alt="" coords="232,328,371,369"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Molecule.html#a3b8d055bc1472e2c2f3cdbf03248816c" title="Computes center of mass of molecule (does not translate molecule)" alt="" coords="439,328,582,369"/>
+<area shape="rect" id="node9" href="$classpsi_1_1Molecule.html#a54db6244ffd1dc1231aa68265a2b07ac" title="Is the molecule linear, or planar?" alt="" coords="433,95,588,136"/>
+<area shape="rect" id="node10" href="$classpsi_1_1Molecule.html#adcd1d6157f075998a7b373fc3d6425e7" title="Does the molecule have an inversion center at origin." alt="" coords="447,160,575,201"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Molecule.html#af52dee4eb6dea302cf79d0a752ebef9c" title="Number of atoms." alt="" coords="645,135,787,162"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Molecule.html#a1360ca774c38edccb799c526617e8016" title="Returns a Vector3 with x, y, z position of atom." alt="" coords="652,206,780,233"/>
+<area shape="rect" id="node11" href="$classpsi_1_1Molecule.html#a6f1bfd6570a33ecbfb6a7edc8ad8f3fb" title="Is an axis?" alt="" coords="437,226,585,253"/>
+<area shape="rect" id="node12" href="$classpsi_1_1Molecule.html#a9ef1afcb8a59a6ef34acbff93500c6b6" title="Is a plane?" alt="" coords="433,43,588,70"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Molecule.html#a22d5837017766c120e7705211538b2e4" title="Returns mass atom atom." alt="" coords="647,335,785,362"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Molecule.html#a68e51b7b7bbf4a252c443082217045a6" title="Nuclear charge of atom." alt="" coords="843,335,957,362"/>
+<area shape="rect" id="node14" href="$classpsi_1_1Molecule.html#ab8ef45a073a04f15331215bded500473" title="Translates molecule by r." alt="" coords="432,394,589,421"/>
+<area shape="rect" id="node15" href="$classpsi_1_1Molecule.html#aa462a921ed5cb5cac44a22609fdc39b7" title="Number of all atoms (includes dummies)" alt="" coords="638,394,794,421"/>
+</map>

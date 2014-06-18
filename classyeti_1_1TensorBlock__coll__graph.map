@@ -1,0 +1,17 @@
+<map id="yeti::TensorBlock" name="yeti::TensorBlock">
+<area shape="rect" id="node2" href="$classyeti_1_1DataStorageBlockAllocator.html" title="yeti::DataStorageBlockAllocator" alt="" coords="367,576,575,603"/>
+<area shape="rect" id="node3" href="$classyeti_1_1Cachable.html" title="yeti::Cachable" alt="" coords="260,499,367,525"/>
+<area shape="rect" id="node4" href="$classyeti_1_1YetiRuntimeCountable.html" title="yeti::YetiRuntimeCountable" alt="" coords="163,408,345,435"/>
+<area shape="rect" id="node5" href="$classsmartptr_1_1Countable.html" title="smartptr::Countable" alt="" coords="5,323,141,349"/>
+<area shape="rect" id="node6" href="$classyeti_1_1YetiThreadedRuntimeObject.html" title="yeti::YetiThreadedRuntime\lObject" alt="" coords="166,315,343,357"/>
+<area shape="rect" id="node7" href="$classyeti_1_1YetiRuntimeObject.html" title="yeti::YetiRuntimeObject" alt="" coords="10,213,171,240"/>
+<area shape="rect" id="node8" href="$classyeti_1_1ThreadLock.html" title="yeti::ThreadLock" alt="" coords="195,213,313,240"/>
+<area shape="rect" id="node9" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; ThreadLock \&gt;" alt="" coords="156,96,337,123"/>
+<area shape="rect" id="node10" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; T \&gt;" alt="" coords="395,5,516,32"/>
+<area shape="rect" id="node12" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; DataStorage\lNode \&gt;" alt="" coords="291,147,465,189"/>
+<area shape="rect" id="node14" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; StorageBlock \&gt;" alt="" coords="425,96,615,123"/>
+<area shape="rect" id="node15" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; TensorBlock \&gt;" alt="" coords="569,264,756,291"/>
+<area shape="rect" id="node11" href="$structyeti_1_1DataStorageNode.html" title="yeti::DataStorageNode" alt="" coords="393,323,548,349"/>
+<area shape="rect" id="node13" href="$classyeti_1_1StorageBlock.html" title="yeti::StorageBlock" alt="" coords="441,213,569,240"/>
+<area shape="rect" id="node16" href="$classyeti_1_1Sendable.html" title="yeti::Sendable" alt="" coords="690,576,795,603"/>
+</map>

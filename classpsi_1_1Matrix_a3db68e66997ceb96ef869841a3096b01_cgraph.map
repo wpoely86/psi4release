@@ -1,0 +1,7 @@
+<map id="psi::Matrix::horzcat" name="psi::Matrix::horzcat">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="193,5,316,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#ab375f9e8a5d1c9b4c08667c728ff04d2" title="Returns the rows per irrep array." alt="" coords="190,56,319,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a3286e581ac7248f58ae3de82cd29cc6d" title="Returns the columns per irrep array." alt="" coords="192,107,317,133"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#a2dba13c45127354c9f75ef576f49269b" title="Default constructor, zeros everything out." alt="" coords="191,157,318,184"/>
+<area shape="rect" id="node6" href="$group__QT.html#gada1f89a2db3689c3e7482ea755b49b27" title="psi::C_DCOPY" alt="" coords="199,208,311,235"/>
+</map>

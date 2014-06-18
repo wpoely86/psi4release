@@ -1,0 +1,5 @@
+<map id="psi::dcft::DCFTSolver::compute_energy" name="psi::dcft::DCFTSolver::compute_energy">
+<area shape="rect" id="node2" href="$group__CIOMR.html#gae474392e6a03328b747fd746b8dddb15" title="psi::tstop" alt="" coords="206,5,282,32"/>
+<area shape="rect" id="node4" href="$group__CIOMR.html#gaa9996102f35b660c8148eda7ea5b2a9f" title="psi::tstart" alt="" coords="205,56,283,83"/>
+<area shape="rect" id="node3" href="$namespacepsi.html#a5f3a891c486a6de00fdb7e85ce849e96" title="Same as strncpy(), but make sure that dest ends in \0." alt="" coords="331,31,421,57"/>
+</map>

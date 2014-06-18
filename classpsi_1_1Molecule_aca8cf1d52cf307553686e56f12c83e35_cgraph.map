@@ -1,0 +1,11 @@
+<map id="psi::Molecule::symmetry_frame" name="psi::Molecule::symmetry_frame">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#a3b8d055bc1472e2c2f3cdbf03248816c" title="Computes center of mass of molecule (does not translate molecule)" alt="" coords="225,5,367,46"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Molecule.html#a54db6244ffd1dc1231aa68265a2b07ac" title="Is the molecule linear, or planar?" alt="" coords="219,290,373,331"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Molecule.html#adcd1d6157f075998a7b373fc3d6425e7" title="Does the molecule have an inversion center at origin." alt="" coords="232,122,360,163"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#af52dee4eb6dea302cf79d0a752ebef9c" title="Number of atoms." alt="" coords="422,159,565,185"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Molecule.html#a1360ca774c38edccb799c526617e8016" title="Returns a Vector3 with x, y, z position of atom." alt="" coords="429,239,557,265"/>
+<area shape="rect" id="node9" href="$classpsi_1_1Molecule.html#a6f1bfd6570a33ecbfb6a7edc8ad8f3fb" title="Is an axis?" alt="" coords="222,188,370,215"/>
+<area shape="rect" id="node10" href="$classpsi_1_1Molecule.html#a9ef1afcb8a59a6ef34acbff93500c6b6" title="Is a plane?" alt="" coords="219,239,373,265"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Molecule.html#a22d5837017766c120e7705211538b2e4" title="Returns mass atom atom." alt="" coords="424,12,563,39"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Molecule.html#a68e51b7b7bbf4a252c443082217045a6" title="Nuclear charge of atom." alt="" coords="613,12,728,39"/>
+</map>

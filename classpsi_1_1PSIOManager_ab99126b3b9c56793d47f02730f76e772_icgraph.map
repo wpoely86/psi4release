@@ -1,0 +1,8 @@
+<map id="psi::PSIOManager::mirror_to_disk" name="psi::PSIOManager::mirror_to_disk">
+<area shape="rect" id="node2" href="$classpsi_1_1PSIOManager.html#aebb5708a8f23fefafabf1671d3dca456" title="psi::PSIOManager::set\l_specific_retention" alt="" coords="244,5,399,46"/>
+<area shape="rect" id="node3" href="$classpsi_1_1PSIOManager.html#a1fd819a0705f674c9d4e13a69718822e" title="psi::PSIOManager::write\l_scratch_file" alt="" coords="239,70,404,111"/>
+<area shape="rect" id="node4" href="$classpsi_1_1PSIOManager.html#a5a26b0f9f35cde30c0f1cf2041bac186" title="psi::PSIOManager::open_file" alt="" coords="227,136,416,163"/>
+<area shape="rect" id="node5" href="$classpsi_1_1PSIOManager.html#aa5a5049d8122570a7f1e22a5fc8d6c34" title="psi::PSIOManager::close_file" alt="" coords="225,187,417,213"/>
+<area shape="rect" id="node6" href="$classpsi_1_1PSIOManager.html#a5951f970d15c6291131a920094afa516" title="psi::PSIOManager::move_file" alt="" coords="225,237,418,264"/>
+<area shape="rect" id="node7" href="$classpsi_1_1PSIOManager.html#afac37aee8756300a213cbb9dba9e1965" title="psi::PSIOManager::mark\l_file_for_retention" alt="" coords="238,289,405,330"/>
+</map>

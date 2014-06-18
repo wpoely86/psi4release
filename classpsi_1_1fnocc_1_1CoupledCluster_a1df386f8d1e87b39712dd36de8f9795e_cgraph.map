@@ -1,0 +1,14 @@
+<map id="psi::fnocc::CoupledCluster::DefineTasks" name="psi::fnocc::CoupledCluster::DefineTasks">
+<area shape="rect" id="node2" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a19a71eeb1a5b0b2a7355dffb6ee2ddd2" title="psi::fnocc::CoupledCluster::K" alt="" coords="232,5,427,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#af71bc2c9083ef098e7b584e5cae97195" title="psi::fnocc::CoupledCluster\l::TwoJminusK" alt="" coords="241,57,418,98"/>
+<area shape="rect" id="node5" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a32b525bf3d1d2317249947fa017f4872" title="the n^6 cc/qci diagrams" alt="" coords="241,122,418,163"/>
+<area shape="rect" id="node6" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#ab6420e75dba6073ea67052b3c1746546" title="psi::fnocc::CoupledCluster\l::I2piajk" alt="" coords="241,187,418,229"/>
+<area shape="rect" id="node7" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#ac9e58fc3e5d44b8ef2b71b3a0e529349" title="psi::fnocc::CoupledCluster\l::CPU_t1_vmeni" alt="" coords="241,253,418,294"/>
+<area shape="rect" id="node8" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a4dfbb2a9a9e989ad81c75883537ac9b0" title="psi::fnocc::CoupledCluster\l::CPU_t1_vmaef" alt="" coords="241,318,418,359"/>
+<area shape="rect" id="node9" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a6feb228281dd96bc787c892370efb704" title="psi::fnocc::CoupledCluster\l::CPU_I1ab" alt="" coords="241,383,418,425"/>
+<area shape="rect" id="node10" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a3dcdd2fdbf5482dead256fa25a6f0b7f" title="some cc/qci diagrams" alt="" coords="241,449,418,490"/>
+<area shape="rect" id="node11" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a02dd9eab39d86d3b564f9516df5eb3d0" title="psi::fnocc::CoupledCluster\l::CPU_I1pij_I1ia_lessmem" alt="" coords="240,514,419,555"/>
+<area shape="rect" id="node12" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a021787ff97d6143312c0b51fa50e2c86" title="psi::fnocc::CoupledCluster\l::Vabcd1" alt="" coords="241,579,418,621"/>
+<area shape="rect" id="node13" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a394cb1ef1c1026fda00863cf848c3a30" title="psi::fnocc::CoupledCluster\l::Vabcd2" alt="" coords="241,645,418,686"/>
+<area shape="rect" id="node3" href="$group__QT.html#gada1f89a2db3689c3e7482ea755b49b27" title="psi::C_DCOPY" alt="" coords="475,325,587,352"/>
+</map>

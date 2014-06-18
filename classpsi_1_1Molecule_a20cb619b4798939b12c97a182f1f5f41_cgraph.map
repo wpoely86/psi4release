@@ -1,0 +1,38 @@
+<map id="psi::Molecule::symmetrize_to_abelian_group" name="psi::Molecule::symmetrize_to_abelian_group">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#ae47b520ae66b699a6c40fbfd46982c0c" title="psi::Molecule::reinterpret\l_coordentries" alt="" coords="229,250,395,291"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Molecule.html#aca8cf1d52cf307553686e56f12c83e35" title="psi::Molecule::symmetry\l_frame" alt="" coords="448,398,613,439"/>
+<area shape="rect" id="node14" href="$classpsi_1_1Molecule.html#aa1e1f66df390b050ba7605fe2b70e90f" title="Moves molecule to center of mass." alt="" coords="461,234,600,275"/>
+<area shape="rect" id="node17" href="$classpsi_1_1Molecule.html#a16a74e7543bdcfe22e58d33ecbb24e81" title="Find computational molecular point group, user can override this with the &quot;symmetry&quot; keyword..." alt="" coords="248,537,376,578"/>
+<area shape="rect" id="node28" href="$classpsi_1_1Molecule.html#ab4160f34716b528fc53c0899eba9d8ea" title="psi::Molecule::symmetrize" alt="" coords="443,763,618,789"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#a21c96046b307c2529536f5ffe3432b9a" title="Returns the cleaned up label of the atom (C2 =&gt; C, H4 = H)" alt="" coords="879,5,1028,32"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Molecule.html#a3b8d055bc1472e2c2f3cdbf03248816c" title="Computes center of mass of molecule (does not translate molecule)" alt="" coords="674,173,817,214"/>
+<area shape="rect" id="node10" href="$classpsi_1_1Molecule.html#a54db6244ffd1dc1231aa68265a2b07ac" title="Is the molecule linear, or planar?" alt="" coords="668,341,823,382"/>
+<area shape="rect" id="node11" href="$classpsi_1_1Molecule.html#adcd1d6157f075998a7b373fc3d6425e7" title="Does the molecule have an inversion center at origin." alt="" coords="681,406,809,447"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Molecule.html#af52dee4eb6dea302cf79d0a752ebef9c" title="Number of atoms." alt="" coords="882,348,1025,375"/>
+<area shape="rect" id="node9" href="$classpsi_1_1Molecule.html#a1360ca774c38edccb799c526617e8016" title="Returns a Vector3 with x, y, z position of atom." alt="" coords="889,435,1017,461"/>
+<area shape="rect" id="node12" href="$classpsi_1_1Molecule.html#a6f1bfd6570a33ecbfb6a7edc8ad8f3fb" title="Is an axis?" alt="" coords="671,472,819,499"/>
+<area shape="rect" id="node13" href="$classpsi_1_1Molecule.html#a9ef1afcb8a59a6ef34acbff93500c6b6" title="Is a plane?" alt="" coords="668,523,823,549"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Molecule.html#a22d5837017766c120e7705211538b2e4" title="Returns mass atom atom." alt="" coords="884,208,1023,235"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Molecule.html#a68e51b7b7bbf4a252c443082217045a6" title="Nuclear charge of atom." alt="" coords="1113,208,1228,235"/>
+<area shape="rect" id="node15" href="$classpsi_1_1Molecule.html#ab8ef45a073a04f15331215bded500473" title="Translates molecule by r." alt="" coords="667,56,824,83"/>
+<area shape="rect" id="node16" href="$classpsi_1_1Molecule.html#aa462a921ed5cb5cac44a22609fdc39b7" title="Number of all atoms (includes dummies)" alt="" coords="875,56,1031,83"/>
+<area shape="rect" id="node18" href="$classpsi_1_1Molecule.html#a9956b06b507485388f13d7feb90cf1fb" title="Find highest molecular point group." alt="" coords="673,625,818,666"/>
+<area shape="rect" id="node19" href="$classpsi_1_1SymmetryOperation.html#a8e7a1ad336aa9b99419487a743c65aec" title="Set equal to C2 about the z axis." alt="" coords="872,537,1035,578"/>
+<area shape="rect" id="node22" href="$classpsi_1_1SymmetryOperation.html#a09a52ee318fc969ee4b40b7e7f49d7ac" title="Set equal to C2 about the y axis." alt="" coords="872,602,1035,643"/>
+<area shape="rect" id="node23" href="$classpsi_1_1SymmetryOperation.html#a03a7a9bc86a8c3afdac3bbd568907794" title="Set equal to C2 about the x axis." alt="" coords="872,667,1035,709"/>
+<area shape="rect" id="node20" href="$classpsi_1_1SymmetryOperation.html#aadbd7b2e54a4c193f00519f07b2bae17" title="Set equal to an inversion." alt="" coords="1083,609,1258,636"/>
+<area shape="rect" id="node24" href="$classpsi_1_1SymmetryOperation.html#af931f8c8fac2e43f31fd3df25bbb1179" title="Set equal to reflection in xy plane." alt="" coords="872,733,1035,774"/>
+<area shape="rect" id="node26" href="$classpsi_1_1SymmetryOperation.html#a8a9a6be48751129d460cb78fb2a9c7e0" title="Set equal to reflection in xz plane." alt="" coords="872,798,1035,839"/>
+<area shape="rect" id="node27" href="$classpsi_1_1SymmetryOperation.html#a40494ceac34a558df5e89feb8a535a06" title="Set equal to reflection in yz plane." alt="" coords="872,863,1035,905"/>
+<area shape="rect" id="node21" href="$classpsi_1_1SymmetryOperation.html#aa647ddc024151e78e0f180ca069425f8" title="zero out the symop" alt="" coords="1307,669,1469,710"/>
+<area shape="rect" id="node25" href="$classpsi_1_1SymmetryOperation.html#a559256e2ef24cdeca586cfcfd4985217" title="Set equal to a unit matrix." alt="" coords="1089,766,1252,807"/>
+<area shape="rect" id="node29" href="$classpsi_1_1CharacterTable.html#a0a909440b38f331e3f04e2dbbc5c2a05" title="Returns the order of the point group." alt="" coords="677,690,813,731"/>
+<area shape="rect" id="node30" href="$classpsi_1_1CharacterTable.html#afd6b897e4cab23859aee0bf738d99ebc" title="Returns the i&#39;th symmetry operation." alt="" coords="677,755,813,797"/>
+<area shape="rect" id="node31" href="$classpsi_1_1Matrix.html#af4830cbc8c8b976f73a340d9f6399493" title="Adds a matrix to this." alt="" coords="689,821,801,848"/>
+<area shape="rect" id="node32" href="$classpsi_1_1Molecule.html#a86cea4e5f44ba4e11e74f07a4c318534" title="x position of atom" alt="" coords="688,872,803,899"/>
+<area shape="rect" id="node33" href="$classpsi_1_1Molecule.html#a28e80d250ebb0eb3315a5f0927fe2691" title="y position of atom" alt="" coords="688,923,803,949"/>
+<area shape="rect" id="node34" href="$classpsi_1_1Molecule.html#a7a1b1605ac2b2cb130e2ac7ff07d08b0" title="z position of atom" alt="" coords="688,973,803,1000"/>
+<area shape="rect" id="node35" href="$classpsi_1_1Molecule.html#a8eb66f3f8f2d3650910c3246dffd97b9" title="psi::Molecule::set\l_geometry" alt="" coords="683,107,808,149"/>
+<area shape="rect" id="node36" href="$classpsi_1_1Molecule.html#a3c1802f6c315aef0e46196fa7b6ce090" title="Returns charge of atom." alt="" coords="880,107,1027,133"/>
+<area shape="rect" id="node37" href="$classpsi_1_1Molecule.html#a3091f601a0f755c5a0354c18243ff04b" title="Returns the original label of the atom as given in the input file (C2, H4)." alt="" coords="886,157,1021,184"/>
+</map>

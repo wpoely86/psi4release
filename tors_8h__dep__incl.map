@@ -1,0 +1,25 @@
+<map id="tors.h" name="tors.h">
+<area shape="rect" id="node2" href="$intcos_8h.html" title="internal coordinate includes class declaration" alt="" coords="2057,80,2124,107"/>
+<area shape="rect" id="node22" href="$tors_8cc.html" title="tors class" alt="" coords="2326,461,2388,488"/>
+<area shape="rect" id="node3" href="$frag_8h.html" title="frag.h" alt="" coords="1411,155,1465,181"/>
+<area shape="rect" id="node4" href="$bin_2optking_2molecule_8h_source.html" title="molecule.h" alt="" coords="1305,229,1391,256"/>
+<area shape="rect" id="node8" href="$frag_8cc.html" title="fragment (molecule) class" alt="" coords="5,461,67,488"/>
+<area shape="rect" id="node9" href="$frag__apply__frozen__constraints_8cc.html" title="apply constraints specified by given strings" alt="" coords="1937,461,2151,488"/>
+<area shape="rect" id="node10" href="$frag__disp_8cc.html" title="displace fragment geometry only dq changes to values of coordinates" alt="" coords="92,461,185,488"/>
+<area shape="rect" id="node12" href="$interfrag__orient_8cc.html" title="function moves the geometry of fragment B so that the interfragment coordinates have the given values..." alt="" coords="2175,461,2301,488"/>
+<area shape="rect" id="node5" href="$opt__data_8h.html" title="opt_data.h" alt="" coords="249,304,332,331"/>
+<area shape="rect" id="node24" href="$IRC__data_8h.html" title="IRC_data.h" alt="" coords="1262,304,1351,331"/>
+<area shape="rect" id="node11" href="$geom__gradients__io_8cc.html" title="functions to read and write the geometry, the gradient and the Hessian" alt="" coords="1593,461,1743,488"/>
+<area shape="rect" id="node14" href="$molecule__fragments_8cc.html" title="functions to handle fragments" alt="" coords="324,461,481,488"/>
+<area shape="rect" id="node15" href="$molecule__irc__step_8cc.html" title="molecule_irc_step.cc" alt="" coords="1767,461,1912,488"/>
+<area shape="rect" id="node16" href="$molecule__linesearch__step_8cc.html" title="Generates geometries for a line&#45;search in internal coordinates. Currently, a static line search merel..." alt="" coords="506,454,645,495"/>
+<area shape="rect" id="node17" href="$molecule__read__intcos_8cc.html" title="read internal coordinates from file" alt="" coords="670,461,836,488"/>
+<area shape="rect" id="node18" href="$molecule__sd__step_8cc.html" title="steepest&#45;descent step for molecule" alt="" coords="1317,461,1461,488"/>
+<area shape="rect" id="node20" href="$optking_8cc.html" title="optking.cc" alt="" coords="1487,461,1569,488"/>
+<area shape="rect" id="node6" href="$optking_2globals_8h_source.html" title="globals.h" alt="" coords="1076,379,1151,405"/>
+<area shape="rect" id="node19" href="$opt__data_8cc.html" title="OPT_DATA associated functions that do not do i/o." alt="" coords="209,461,300,488"/>
+<area shape="rect" id="node7" href="$bend_8cc.html" title="bend.cc" alt="" coords="1079,461,1147,488"/>
+<area shape="rect" id="node13" href="$linear__algebra_8cc.html" title="linear algebra functions which call lapack and blas are in global namespace and preceded with opt..." alt="" coords="1172,461,1292,488"/>
+<area shape="rect" id="node21" href="$set__params_8cc.html" title="set optimization parameters" alt="" coords="861,461,968,488"/>
+<area shape="rect" id="node23" href="$v3d_8cc.html" title="v3d functions" alt="" coords="993,461,1055,488"/>
+</map>

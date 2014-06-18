@@ -1,0 +1,4 @@
+<map id="yeti::TaskQueue::get_next_task" name="yeti::TaskQueue::get_next_task">
+<area shape="rect" id="node2" href="$classyeti_1_1YetiThreadedRuntimeObject.html#a278c57faf329c301437da13290491787" title="yeti::YetiThreadedRuntime\lObject::lock" alt="" coords="198,5,375,46"/>
+<area shape="rect" id="node3" href="$classyeti_1_1YetiThreadedRuntimeObject.html#a66f192c7b5fa0fe3273e364b21afacfc" title="yeti::YetiThreadedRuntime\lObject::unlock" alt="" coords="198,70,375,111"/>
+</map>

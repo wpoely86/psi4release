@@ -1,0 +1,18 @@
+<map id="psi::PsiException" name="psi::PsiException">
+<area shape="rect" id="node3" href="$classpsi_1_1BasisSetFileNotFound.html" title="psi::BasisSetFileNotFound" alt="" coords="367,5,545,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1BasisSetNotFound.html" title="psi::BasisSetNotFound" alt="" coords="377,56,535,83"/>
+<area shape="rect" id="node5" href="$classpsi_1_1DataTypeException.html" title="psi::DataTypeException" alt="" coords="375,107,537,133"/>
+<area shape="rect" id="node6" href="$classpsi_1_1DuplicateKeyException.html" title="psi::DuplicateKeyException" alt="" coords="365,157,547,184"/>
+<area shape="rect" id="node7" href="$classpsi_1_1FeatureNotImplemented.html" title="psi::FeatureNotImplemented" alt="" coords="363,208,549,235"/>
+<area shape="rect" id="node8" href="$classpsi_1_1IndexException.html" title="psi::IndexException" alt="" coords="387,259,525,285"/>
+<area shape="rect" id="node9" href="$classpsi_1_1InputException.html" title="psi::InputException" alt="" coords="389,309,523,336"/>
+<area shape="rect" id="node10" href="$classpsi_1_1LimitExceeded.html" title="psi::LimitExceeded\&lt; T \&gt;" alt="" coords="373,360,539,387"/>
+<area shape="rect" id="node15" href="$classpsi_1_1NotImplementedException__.html" title="psi::NotImplementedException_" alt="" coords="352,411,560,437"/>
+<area shape="rect" id="node16" href="$classpsi_1_1OptionsException.html" title="psi::OptionsException" alt="" coords="381,461,531,488"/>
+<area shape="rect" id="node17" href="$classpsi_1_1SanityCheckError.html" title="psi::SanityCheckError" alt="" coords="381,512,531,539"/>
+<area shape="rect" id="node18" href="$classpsi_1_1SystemError.html" title="psi::SystemError" alt="" coords="396,563,516,589"/>
+<area shape="rect" id="node11" href="$classpsi_1_1MaxIterationsExceeded.html" title="psi::MaxIterationsExceeded\&lt; T \&gt;" alt="" coords="611,309,827,336"/>
+<area shape="rect" id="node13" href="$classpsi_1_1ResourceAllocationError.html" title="psi::ResourceAllocationError\&lt; T \&gt;" alt="" coords="609,360,829,387"/>
+<area shape="rect" id="node14" href="$classpsi_1_1StepSizeError.html" title="psi::StepSizeError\&lt; T \&gt;" alt="" coords="639,411,799,437"/>
+<area shape="rect" id="node12" href="$classpsi_1_1ConvergenceError.html" title="psi::ConvergenceError\&lt; T \&gt;" alt="" coords="877,309,1061,336"/>
+</map>

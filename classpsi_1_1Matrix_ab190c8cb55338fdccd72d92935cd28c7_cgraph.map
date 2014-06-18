@@ -1,0 +1,8 @@
+<map id="psi::Matrix::svd" name="psi::Matrix::svd">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a5cf27d2c4c5dca04a578ed4f9cc2aad7" title="allocate a block matrix – analogous to libciomr&#39;s block_matrix" alt="" coords="166,31,293,57"/>
+<area shape="rect" id="node6" href="$namespacepsi.html#a694b74f34cfc82e3bb2bc573b3bbb9bf" title="psi::C_DGESDD" alt="" coords="168,81,291,108"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Matrix.html#a391d00e36473a7081ff510b4e42ec37f" title="free a (block) matrix – analogous to libciomr&#39;s free_block" alt="" coords="173,132,286,159"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a1a2168c5e0a0b8b003dae927e4050c7b" title="Returns the total number of rows." alt="" coords="342,31,461,57"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="515,5,637,32"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#a9e517cfa7db99a049c4c2f1324286bbf" title="Returns the rows in irrep h." alt="" coords="509,56,643,83"/>
+</map>

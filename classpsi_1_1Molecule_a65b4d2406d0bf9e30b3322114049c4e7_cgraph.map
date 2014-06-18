@@ -1,0 +1,8 @@
+<map id="psi::Molecule::init_with_psio" name="psi::Molecule::init_with_psio">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#a342633b3ae1b414d4f964b3adbf6a26a" title="psi::Molecule::init\l_with_chkpt" alt="" coords="179,41,303,82"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#a14c0e631197f413f006ce5077d958a1e" title="psi::Molecule::add_atom" alt="" coords="353,23,517,49"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Chkpt.html#a0fa6c13d01484f092df1c1a35f73045d" title="free a (block) matrix – analogous to libciomr&#39;s free_block" alt="" coords="379,73,491,100"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Molecule.html#a68e51b7b7bbf4a252c443082217045a6" title="Nuclear charge of atom." alt="" coords="760,23,875,49"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Molecule.html#a3c1802f6c315aef0e46196fa7b6ce090" title="Returns charge of atom." alt="" coords="565,23,712,49"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Molecule.html#a22d5837017766c120e7705211538b2e4" title="Returns mass atom atom." alt="" coords="569,73,708,100"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="psi::C_DORGQR" name="psi::C_DORGQR">
+<area shape="rect" id="node2" href="$classpsi_1_1FittingMetric.html#ae2b4eb2d5fc6ddc2e69d96f5880c5488" title="Build the QR half inverse metric (calls form_fitting_metric)" alt="" coords="181,5,313,46"/>
+<area shape="rect" id="node3" href="$namespacepsi.html#a33642b500da20253c74a7b5f2230369c" title="PSI_DORGQR, a wrapper to return C_DORGQR using objects." alt="" coords="179,95,315,121"/>
+</map>

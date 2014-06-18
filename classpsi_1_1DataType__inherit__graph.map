@@ -1,0 +1,10 @@
+<map id="psi::DataType" name="psi::DataType">
+<area shape="rect" id="node2" href="$classpsi_1_1ArrayType.html" title="psi::ArrayType" alt="" coords="180,5,287,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1BooleanDataType.html" title="psi::BooleanDataType" alt="" coords="158,56,309,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1DoubleDataType.html" title="psi::DoubleDataType" alt="" coords="161,107,306,133"/>
+<area shape="rect" id="node5" href="$classpsi_1_1IntDataType.html" title="psi::IntDataType" alt="" coords="174,157,293,184"/>
+<area shape="rect" id="node6" href="$classpsi_1_1IStringDataType.html" title="psi::IStringDataType" alt="" coords="162,208,305,235"/>
+<area shape="rect" id="node7" href="$classpsi_1_1MapType.html" title="psi::MapType" alt="" coords="183,259,284,285"/>
+<area shape="rect" id="node8" href="$classpsi_1_1PythonDataType.html" title="psi::PythonDataType" alt="" coords="161,309,306,336"/>
+<area shape="rect" id="node9" href="$classpsi_1_1StringDataType.html" title="psi::StringDataType" alt="" coords="164,360,303,387"/>
+</map>

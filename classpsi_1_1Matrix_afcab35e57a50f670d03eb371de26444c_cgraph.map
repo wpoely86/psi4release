@@ -1,0 +1,16 @@
+<map id="psi::Matrix::pseudoinverse" name="psi::Matrix::pseudoinverse">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a7d80033fb1ed0b31ec3715c2800bdb7e" title="psi::Matrix::svd_temps" alt="" coords="229,5,384,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#ab190c8cb55338fdccd72d92935cd28c7" title="psi::Matrix::svd" alt="" coords="251,107,363,133"/>
+<area shape="rect" id="node11" href="$classpsi_1_1Matrix.html#aa37b776debf539816ecfb7298e4f5484" title="Returns the total number of columns." alt="" coords="249,157,364,184"/>
+<area shape="rect" id="node13" href="$classpsi_1_1Matrix.html#a80494f2be72aace34068b8f328891ef2" title="Creates an exact copy of the matrix and returns it." alt="" coords="245,56,368,83"/>
+<area shape="rect" id="node14" href="$group__QT.html#gaed877a653f8542c11a21987ae0f1e160" title="psi::C_DSCAL" alt="" coords="252,208,361,235"/>
+<area shape="rect" id="node15" href="$namespacepsi.html#a1112df35ff9d2b780efb0c24662f4fbe" title="psi::C_DGEMM" alt="" coords="249,259,364,285"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a2dba13c45127354c9f75ef576f49269b" title="Default constructor, zeros everything out." alt="" coords="434,5,561,32"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#a5cf27d2c4c5dca04a578ed4f9cc2aad7" title="allocate a block matrix – analogous to libciomr&#39;s block_matrix" alt="" coords="434,56,561,83"/>
+<area shape="rect" id="node9" href="$namespacepsi.html#a694b74f34cfc82e3bb2bc573b3bbb9bf" title="psi::C_DGESDD" alt="" coords="436,107,559,133"/>
+<area shape="rect" id="node10" href="$classpsi_1_1Matrix.html#a391d00e36473a7081ff510b4e42ec37f" title="free a (block) matrix – analogous to libciomr&#39;s free_block" alt="" coords="441,157,554,184"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Matrix.html#a1a2168c5e0a0b8b003dae927e4050c7b" title="Returns the total number of rows." alt="" coords="611,81,730,108"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="784,183,907,209"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Matrix.html#a9e517cfa7db99a049c4c2f1324286bbf" title="Returns the rows in irrep h." alt="" coords="779,81,912,108"/>
+<area shape="rect" id="node12" href="$classpsi_1_1Matrix.html#af77ccf2eab7f3eed614c44492e9598d4" title="Returns the cols in irrep h." alt="" coords="433,259,562,285"/>
+</map>

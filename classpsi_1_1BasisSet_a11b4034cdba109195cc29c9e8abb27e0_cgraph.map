@@ -1,0 +1,17 @@
+<map id="psi::BasisSet::BasisSet" name="psi::BasisSet::BasisSet">
+<area shape="rect" id="node2" href="$classpsi_1_1BasisSet.html#a8eb9dde2f8ddfd1cabb640af76b388cf" title="psi::BasisSet::initialize\l_singletons" alt="" coords="219,5,373,46"/>
+<area shape="rect" id="node3" href="$classpsi_1_1BasisSet.html#a37c7c3ccc5778408ed9a9bb0b63c6cf7" title="Returns the name of this basis set." alt="" coords="226,71,366,97"/>
+<area shape="rect" id="node4" href="$classpsi_1_1BasisSet.html#a4fbd0cf26ff4e7b068413978678f3802" title="psi::BasisSet::nshell" alt="" coords="225,121,367,148"/>
+<area shape="rect" id="node5" href="$classpsi_1_1BasisSet.html#afbb927bc76c74ff1f9aa8a46f33df75c" title="psi::BasisSet::shell" alt="" coords="229,172,363,199"/>
+<area shape="rect" id="node6" href="$classpsi_1_1GaussianShell.html#a2d6d272e41aa0c58c224738627f0cbe7" title="Returns the atom number this shell is on. Used by integral derivatives for indexing." alt="" coords="231,223,361,265"/>
+<area shape="rect" id="node7" href="$classpsi_1_1GaussianShell.html#acfe27390e178ccc5716f18249c73e4a2" title="The number of primitive Gaussians." alt="" coords="231,289,361,330"/>
+<area shape="rect" id="node8" href="$classpsi_1_1GaussianShell.html#a09884f91918ffd941c4eb6e174adb854" title="Returns the exponent of the given primitive." alt="" coords="216,355,376,381"/>
+<area shape="rect" id="node9" href="$classpsi_1_1GaussianShell.html#a0fb28af8b074ac2a201b042a0621fa90" title="Return coefficient of pi&#39;th primitive." alt="" coords="231,406,361,447"/>
+<area shape="rect" id="node10" href="$classpsi_1_1GaussianShell.html#ad899d520f627c5de33eeeb6677530d60" title="Return unnormalized coefficient of pi&#39;th primitive." alt="" coords="231,471,361,513"/>
+<area shape="rect" id="node11" href="$classpsi_1_1GaussianShell.html#af4fae458022ec286a8e4102b49f81442" title="Return unnormalized coefficient of pi&#39;th primitive." alt="" coords="231,537,361,578"/>
+<area shape="rect" id="node12" href="$classpsi_1_1GaussianShell.html#a645d556a350aaedc1b08d43070570a74" title="Total number of functions if this shell was Cartesian." alt="" coords="231,602,361,643"/>
+<area shape="rect" id="node13" href="$classpsi_1_1GaussianShell.html#a6f05c4bcba1cef2b6d67be384038d239" title="Total number of basis functions." alt="" coords="231,667,361,709"/>
+<area shape="rect" id="node14" href="$classpsi_1_1BasisSet.html#acb64dc1fe2ff3b7a03d84eb1036b8f72" title="psi::BasisSet::molecule" alt="" coords="216,733,376,760"/>
+<area shape="rect" id="node15" href="$classpsi_1_1GaussianShell.html#a6357046b29b9394c46eecbf0558b4631" title="The angular momentum of the given contraction." alt="" coords="217,784,375,811"/>
+<area shape="rect" id="node16" href="$classpsi_1_1GaussianShell.html#ad3a97d569e1799c4e37f409d76fbf8ee" title="Returns true if contraction is pure." alt="" coords="231,835,361,877"/>
+</map>

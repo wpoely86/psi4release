@@ -1,0 +1,4 @@
+<map id="psi::ElectrostaticInt" name="psi::ElectrostaticInt">
+<area shape="rect" id="node2" href="$classpsi_1_1PotentialInt.html" title="Computes potential integrals. Use an IntegralFactory to create this object." alt="" coords="15,80,128,107"/>
+<area shape="rect" id="node3" href="$classpsi_1_1OneBodyAOInt.html" title="psi::OneBodyAOInt" alt="" coords="5,5,139,32"/>
+</map>

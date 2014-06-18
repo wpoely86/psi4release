@@ -1,0 +1,12 @@
+<map id="psi::JK::compute" name="psi::JK::compute">
+<area shape="rect" id="node2" href="$group__QT.html#ga76e23a17ad31a5648f238a8ddce4d41a" title="psi::timer_on" alt="" coords="199,5,297,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1JK.html#ac052a92f731ab7b3518bba327de2bf64" title="Build the pseudo&#45;density D_, before compute_JK()" alt="" coords="179,107,317,133"/>
+<area shape="rect" id="node6" href="$group__QT.html#gae1479e3f831fb539222f1ba2c5fa0452" title="psi::timer_off" alt="" coords="199,56,297,83"/>
+<area shape="rect" id="node7" href="$classpsi_1_1JK.html#a85ecf62f45a8282689b40498c6c31378" title="Do we need to backtransform to C1 under the hood?" alt="" coords="204,157,292,184"/>
+<area shape="rect" id="node8" href="$classpsi_1_1JK.html#a160634cdf50ce8828cf01d42546a2bcc" title="Transform current C_left_/C_right_/D_ to C_left_ao_/C_right_ao_/D_ao_, before compute_JK()" alt="" coords="185,259,311,285"/>
+<area shape="rect" id="node9" href="$classpsi_1_1JK.html#a80da8ca62c362fc9a40a6df069d07ccc" title="Allocate J_/K_ should we be using SOs." alt="" coords="368,309,507,336"/>
+<area shape="rect" id="node10" href="$classpsi_1_1JK.html#ac63709c9c601de40f94383bc4eb2883c" title="Compute J/K for current C/D." alt="" coords="176,309,320,336"/>
+<area shape="rect" id="node11" href="$classpsi_1_1JK.html#ab7687b48b806211ccb09d3eff5737daf" title="Transform finished J_ao_/K_ao_ to J_/K_, after compute_JK()" alt="" coords="185,208,311,235"/>
+<area shape="rect" id="node3" href="$group__QT.html#ga86ba9a6fa70806080a0e81eb75a32f73" title="psi::timer_scan" alt="" coords="382,31,493,57"/>
+<area shape="rect" id="node5" href="$namespacepsi.html#a1112df35ff9d2b780efb0c24662f4fbe" title="psi::C_DGEMM" alt="" coords="380,208,495,235"/>
+</map>

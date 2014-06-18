@@ -1,0 +1,6 @@
+<map id="yeti::ContractionTask" name="yeti::ContractionTask">
+<area shape="rect" id="node2" href="$classyeti_1_1Task.html" title="yeti::Task" alt="" coords="35,104,115,131"/>
+<area shape="rect" id="node3" href="$classsmartptr_1_1Countable.html" title="smartptr::Countable" alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node4" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; Contraction\lTask \&gt;" alt="" coords="141,97,309,138"/>
+<area shape="rect" id="node5" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; T \&gt;" alt="" coords="166,5,287,32"/>
+</map>

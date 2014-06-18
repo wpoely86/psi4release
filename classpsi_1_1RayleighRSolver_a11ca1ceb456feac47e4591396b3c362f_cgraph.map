@@ -1,0 +1,5 @@
+<map id="psi::RayleighRSolver::initialize" name="psi::RayleighRSolver::initialize">
+<area shape="rect" id="node2" href="$classpsi_1_1DLRSolver.html#aa544588a3fe7d79de08f25cf6f76ef1c" title="psi::DLRSolver::initialize" alt="" coords="201,5,367,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1CGRSolver.html#a632a095a9353c0d1f0b47e69fc01d2aa" title="Static constructor, uses Options object." alt="" coords="209,57,359,98"/>
+<area shape="rect" id="node3" href="$classpsi_1_1DLRSolver.html#ae6b7e6d047cae1c8d1136cafd6f478e9" title="psi::DLRSolver::finalize" alt="" coords="416,5,576,32"/>
+</map>

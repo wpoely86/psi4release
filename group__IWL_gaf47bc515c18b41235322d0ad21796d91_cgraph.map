@@ -1,0 +1,11 @@
+<map id="psi::iwl_wrttwo" name="psi::iwl_wrttwo">
+<area shape="rect" id="node2" href="$group__IWL.html#gaf17e4eee1412d1540e2c3091fd526658" title="psi::iwl_buf_init" alt="" coords="173,31,285,57"/>
+<area shape="rect" id="node6" href="$group__IWL.html#gac32d69b5c4a1ad12b2528d0e29ed5261" title="psi::iwl_buf_wrt_all" alt="" coords="163,81,296,108"/>
+<area shape="rect" id="node9" href="$group__IWL.html#gaf25d77d2b1ba5f862f8a9c62b9beade5" title="psi::iwl_buf_flush" alt="" coords="168,132,291,159"/>
+<area shape="rect" id="node10" href="$group__IWL.html#gab605ef0d64ce923bd9955c2fb7242623" title="psi::iwl_buf_close" alt="" coords="166,183,293,209"/>
+<area shape="rect" id="node3" href="$group__PSIO.html#gabb84738717252302864b0da5f6f65f9d" title="psi::psio_tocscan" alt="" coords="345,5,469,32"/>
+<area shape="rect" id="node4" href="$group__IWL.html#gac911d759b786733d5f666d7b22d4b626" title="psi::iwl_buf_fetch" alt="" coords="345,56,469,83"/>
+<area shape="rect" id="node5" href="$group__PSIO.html#ga7fb52625f96f6373eca3de9dcdf9487f" title="psi::psio_read" alt="" coords="519,56,622,83"/>
+<area shape="rect" id="node7" href="$group__IWL.html#ga305abfee9d72d2cd5c2c39a823da7680" title="psi::iwl_buf_put" alt="" coords="350,119,463,145"/>
+<area shape="rect" id="node8" href="$group__PSIO.html#gaac73c196234f26dcd094674cc29a6b18" title="psi::psio_write" alt="" coords="517,119,624,145"/>
+</map>

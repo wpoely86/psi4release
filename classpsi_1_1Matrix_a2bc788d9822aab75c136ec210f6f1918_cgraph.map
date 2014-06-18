@@ -1,0 +1,5 @@
+<map id="psi::Matrix::symmetrize" name="psi::Matrix::symmetrize">
+<area shape="rect" id="node2" href="$classpsi_1_1CharacterTable.html#a0a909440b38f331e3f04e2dbbc5c2a05" title="Returns the order of the point group." alt="" coords="213,5,349,46"/>
+<area shape="rect" id="node3" href="$classpsi_1_1CharacterTable.html#afd6b897e4cab23859aee0bf738d99ebc" title="Returns the i&#39;th symmetry operation." alt="" coords="213,70,349,111"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#af4830cbc8c8b976f73a340d9f6399493" title="Adds a matrix to this." alt="" coords="225,136,337,163"/>
+</map>

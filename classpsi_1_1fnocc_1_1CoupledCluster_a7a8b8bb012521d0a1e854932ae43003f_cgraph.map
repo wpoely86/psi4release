@@ -1,0 +1,9 @@
+<map id="psi::fnocc::CoupledCluster::DefineLinearTasks" name="psi::fnocc::CoupledCluster::DefineLinearTasks">
+<area shape="rect" id="node2" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a76fcb40e38ead802baead90f435aa94f" title="linear diagrams for mp4" alt="" coords="233,5,410,46"/>
+<area shape="rect" id="node4" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#ab7f8d46870191c57019d6818ace0b539" title="psi::fnocc::CoupledCluster\l::I2iajb_linear" alt="" coords="233,70,410,111"/>
+<area shape="rect" id="node5" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a8daa6b99da4ba274cc0564eb791f524f" title="psi::fnocc::CoupledCluster\l::I2ijkl_linear" alt="" coords="233,135,410,177"/>
+<area shape="rect" id="node6" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#add5d5eb347203dc450a36e71d26e6133" title="psi::fnocc::CoupledCluster\l::I2piajk_linear" alt="" coords="233,201,410,242"/>
+<area shape="rect" id="node7" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#ab3ef3dcc793d4314379ad6b69a9e4771" title="psi::fnocc::CoupledCluster\l::Vabcd1_linear" alt="" coords="233,266,410,307"/>
+<area shape="rect" id="node8" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#a8bfed9e521b6cd6ec45dacbcf8949466" title="psi::fnocc::CoupledCluster\l::Vabcd2_linear" alt="" coords="233,331,410,373"/>
+<area shape="rect" id="node3" href="$group__QT.html#gada1f89a2db3689c3e7482ea755b49b27" title="psi::C_DCOPY" alt="" coords="459,208,571,235"/>
+</map>

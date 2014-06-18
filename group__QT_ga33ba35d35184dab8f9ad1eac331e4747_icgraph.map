@@ -1,0 +1,6 @@
+<map id="psi::C_DSWAP" name="psi::C_DSWAP">
+<area shape="rect" id="node2" href="$namespacepsi.html#ae94898dbde057458f7f55480abd1ef90" title="psi::benchmark_blas1" alt="" coords="183,5,332,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#ae18fcc19187704e4e061aea83f103623" title="Swap rows i and j." alt="" coords="179,56,336,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a85b202025623bd2e860e3715e1eb9591" title="Swap cols i and j." alt="" coords="168,107,347,133"/>
+<area shape="rect" id="node5" href="$namespacepsi.html#adbd1fe3bc60351d13c0b2d9b739a3064" title="PSI_DSWAP, a wrapper to C_DSWAP using objects." alt="" coords="194,181,321,208"/>
+</map>

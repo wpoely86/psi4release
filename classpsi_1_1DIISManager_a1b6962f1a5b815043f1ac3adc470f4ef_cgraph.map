@@ -1,0 +1,7 @@
+<map id="psi::DIISManager::set_vector_size" name="psi::DIISManager::set_vector_size">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="209,5,332,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#ab375f9e8a5d1c9b4c08667c728ff04d2" title="Returns the rows per irrep array." alt="" coords="206,56,335,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a3286e581ac7248f58ae3de82cd29cc6d" title="Returns the columns per irrep array." alt="" coords="208,107,333,133"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Vector.html#a3a018c83660a68f61f82bee5ec4dc4dc" title="Returns the number of irreps." alt="" coords="208,157,333,184"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Vector.html#ad1d7994d0cdbdd84bfc1e6845d57f806" title="Returns the dimension array." alt="" coords="209,208,333,235"/>
+</map>

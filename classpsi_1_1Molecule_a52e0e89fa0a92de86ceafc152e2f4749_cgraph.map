@@ -1,0 +1,11 @@
+<map id="psi::Molecule::set_geometry" name="psi::Molecule::set_geometry">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#a8eb66f3f8f2d3650910c3246dffd97b9" title="psi::Molecule::set\l_geometry" alt="" coords="181,125,307,166"/>
+<area shape="rect" id="node10" href="$classpsi_1_1Matrix.html#a31858bc92306ec62094e9ae68a5f5ad9" title="psi::Matrix::pointer" alt="" coords="179,191,309,217"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#aa462a921ed5cb5cac44a22609fdc39b7" title="Number of all atoms (includes dummies)" alt="" coords="358,5,514,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Molecule.html#a21c96046b307c2529536f5ffe3432b9a" title="Returns the cleaned up label of the atom (C2 =&gt; C, H4 = H)" alt="" coords="361,56,511,83"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Molecule.html#a3c1802f6c315aef0e46196fa7b6ce090" title="Returns charge of atom." alt="" coords="363,107,509,133"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Molecule.html#a22d5837017766c120e7705211538b2e4" title="Returns mass atom atom." alt="" coords="367,157,505,184"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Molecule.html#a3091f601a0f755c5a0354c18243ff04b" title="Returns the original label of the atom as given in the input file (C2, H4)." alt="" coords="369,208,503,235"/>
+<area shape="rect" id="node9" href="$classpsi_1_1Molecule.html#af52dee4eb6dea302cf79d0a752ebef9c" title="Number of atoms." alt="" coords="365,259,507,285"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Molecule.html#a68e51b7b7bbf4a252c443082217045a6" title="Nuclear charge of atom." alt="" coords="563,157,677,184"/>
+</map>

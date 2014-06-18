@@ -1,0 +1,9 @@
+<map id="psi::PSTensor" name="psi::PSTensor">
+<area shape="rect" id="node2" href="$classpsi_1_1Options.html" title="psi::Options" alt="" coords="419,5,511,32"/>
+<area shape="rect" id="node3" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::PseudospectralGrid \&gt;" alt="" coords="377,77,554,118"/>
+<area shape="rect" id="node4" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt; T \&gt;" alt="" coords="5,277,160,304"/>
+<area shape="rect" id="node5" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::BasisSet \&gt;" alt="" coords="400,183,531,225"/>
+<area shape="rect" id="node6" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::Matrix \&gt;" alt="" coords="400,270,531,311"/>
+<area shape="rect" id="node7" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::Molecule \&gt;" alt="" coords="400,335,531,377"/>
+<area shape="rect" id="node8" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::Vector \&gt;" alt="" coords="400,401,531,442"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="yeti::DataCache" name="yeti::DataCache">
+<area shape="rect" id="node2" href="$classsmartptr_1_1Countable.html" title="smartptr::Countable" alt="" coords="5,104,141,131"/>
+<area shape="rect" id="node3" href="$classyeti_1_1MempoolVirtualAddressMalloc.html" title="yeti::MempoolVirtualAddress\lMalloc" alt="" coords="167,97,356,138"/>
+<area shape="rect" id="node4" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; DataCache \&gt;" alt="" coords="380,104,559,131"/>
+<area shape="rect" id="node5" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; T \&gt;" alt="" coords="409,5,529,32"/>
+</map>

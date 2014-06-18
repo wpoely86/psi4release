@@ -1,0 +1,27 @@
+<map id="psi::DIISManager::extrapolate" name="psi::DIISManager::extrapolate">
+<area shape="rect" id="node2" href="$group__QT.html#ga76e23a17ad31a5648f238a8ddce4d41a" title="psi::timer_on" alt="" coords="510,8,607,35"/>
+<area shape="rect" id="node4" href="$group__CIOMR.html#ga35255b9a71ed5869db7c1c5507923929" title="psi::init_array" alt="" coords="290,160,390,187"/>
+<area shape="rect" id="node5" href="$classpsi_1_1DIISEntry.html#a463fa968312719eda06ec3106d833d05" title="Whether the dot product of this entry&#39;s and the nth entry&#39;s error vector is known." alt="" coords="275,212,405,253"/>
+<area shape="rect" id="node6" href="$classpsi_1_1DIISEntry.html#a7ccb8624f89f21ce95e131b81f8371fc" title="The dot product of this entry&#39;s and the nth entry&#39;s error vectors." alt="" coords="259,278,421,304"/>
+<area shape="rect" id="node7" href="$group__QT.html#gafff0d5067135afa4228460272b6b4781" title="psi::C_DDOT" alt="" coords="289,328,391,355"/>
+<area shape="rect" id="node8" href="$classpsi_1_1DIISEntry.html#adadf99d4c49232783b63b460a1ca3cf2" title="Returns the error vector." alt="" coords="251,379,429,406"/>
+<area shape="rect" id="node10" href="$classpsi_1_1DIISEntry.html#a2c18401f39dd3165f0bbeb67ef811e74" title="Sets the dot product with vector n to val." alt="" coords="275,430,405,472"/>
+<area shape="rect" id="node11" href="$classpsi_1_1DIISEntry.html#a7ca52aa6949e7464f678432fa1136717" title="Free error vector memory." alt="" coords="264,496,416,537"/>
+<area shape="rect" id="node12" href="$group__QT.html#gae1479e3f831fb539222f1ba2c5fa0452" title="psi::timer_off" alt="" coords="509,59,608,86"/>
+<area shape="rect" id="node13" href="$namespacepsi.html#a8f839afc1a7e4950dbaa3521e5eae60f" title="psi::C_DGEMV" alt="" coords="283,562,397,588"/>
+<area shape="rect" id="node14" href="$classpsi_1_1DPD.html#a2147603515dcdd52230ab14507f9a6cb" title="psi::DPD::buf4_scm" alt="" coords="269,110,411,136"/>
+<area shape="rect" id="node17" href="$classpsi_1_1Matrix.html#a0764fae6bafeb8425318d6e0e379727b" title="Zeros this out." alt="" coords="282,612,398,639"/>
+<area shape="rect" id="node18" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="279,663,401,690"/>
+<area shape="rect" id="node19" href="$classpsi_1_1Matrix.html#ab375f9e8a5d1c9b4c08667c728ff04d2" title="Returns the rows per irrep array." alt="" coords="275,714,405,740"/>
+<area shape="rect" id="node20" href="$classpsi_1_1Matrix.html#a3286e581ac7248f58ae3de82cd29cc6d" title="Returns the columns per irrep array." alt="" coords="277,764,403,791"/>
+<area shape="rect" id="node21" href="$classpsi_1_1Matrix.html#af4830cbc8c8b976f73a340d9f6399493" title="Adds a matrix to this." alt="" coords="284,815,396,842"/>
+<area shape="rect" id="node22" href="$classpsi_1_1Vector.html#a3a018c83660a68f61f82bee5ec4dc4dc" title="Returns the number of irreps." alt="" coords="277,866,403,892"/>
+<area shape="rect" id="node23" href="$classpsi_1_1Vector.html#ad1d7994d0cdbdd84bfc1e6845d57f806" title="Returns the dimension array." alt="" coords="278,916,402,943"/>
+<area shape="rect" id="node24" href="$classpsi_1_1Vector.html#a11832de6ab651853a457a926da8d6812" title="Sets the vector_ to the data in vec." alt="" coords="285,967,395,994"/>
+<area shape="rect" id="node26" href="$classpsi_1_1Vector.html#ac348b55847b3fbfa8abda223267bf394" title="Returns a single element value." alt="" coords="285,1018,395,1044"/>
+<area shape="rect" id="node3" href="$group__QT.html#ga86ba9a6fa70806080a0e81eb75a32f73" title="psi::timer_scan" alt="" coords="689,34,799,60"/>
+<area shape="rect" id="node9" href="$classpsi_1_1DIISEntry.html#af95dd6b43e7d047263bf0477a0eb2b35" title="Allocate error vector memory and read from disk." alt="" coords="477,372,640,413"/>
+<area shape="rect" id="node15" href="$group__PSIO.html#gabb84738717252302864b0da5f6f65f9d" title="psi::psio_tocscan" alt="" coords="497,110,621,136"/>
+<area shape="rect" id="node16" href="$group__QT.html#gaed877a653f8542c11a21987ae0f1e160" title="psi::C_DSCAL" alt="" coords="504,160,613,187"/>
+<area shape="rect" id="node25" href="$classpsi_1_1Dimension.html#a7a394bae09b5900f3ee912e6539abca2" title="Return the sum of constituent dimensions." alt="" coords="487,967,630,994"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="psi::C_DTRSM" name="psi::C_DTRSM">
+<area shape="rect" id="node2" href="$classpsi_1_1FittingMetric.html#ae2b4eb2d5fc6ddc2e69d96f5880c5488" title="Build the QR half inverse metric (calls form_fitting_metric)" alt="" coords="166,5,298,46"/>
+<area shape="rect" id="node3" href="$namespacepsi.html#aff44e0b0bb14e89be94f53b04e793614" title="PSI_DTRSM, a wrapper to C_DTRSM using objects." alt="" coords="170,95,294,121"/>
+</map>

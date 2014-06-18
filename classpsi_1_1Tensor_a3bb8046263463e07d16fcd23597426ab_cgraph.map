@@ -1,0 +1,6 @@
+<map id="psi::Tensor::slice" name="psi::Tensor::slice">
+<area shape="rect" id="node2" href="$classpsi_1_1Tensor.html#ad570605820228b219485d2f4527b09d4" title="Is this a disk tensor?" alt="" coords="201,5,319,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Tensor.html#af06937b94d37be5ab4a5f236fe3ceb50" title="Throw an exception if the tensor is swapped out or disk based." alt="" coords="176,56,344,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Tensor.html#a8cbc7af7476ebe30795dcbfd8e6f2305" title="Access the data pointer." alt="" coords="193,107,327,133"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Tensor.html#ac011d67acc169dd9087b4d6e97d4798e" title="Access the file pointer." alt="" coords="181,157,339,184"/>
+</map>

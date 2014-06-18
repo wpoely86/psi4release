@@ -1,0 +1,13 @@
+<map id="psi::DIISManager::add_entry" name="psi::DIISManager::add_entry">
+<area shape="rect" id="node2" href="$group__QT.html#ga76e23a17ad31a5648f238a8ddce4d41a" title="psi::timer_on" alt="" coords="235,5,333,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="223,56,345,83"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#ab375f9e8a5d1c9b4c08667c728ff04d2" title="Returns the rows per irrep array." alt="" coords="219,107,349,133"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Matrix.html#a3286e581ac7248f58ae3de82cd29cc6d" title="Returns the columns per irrep array." alt="" coords="221,157,347,184"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Matrix.html#a3baeae31c3c23fc5611ae43d75a80b85" title="psi::Matrix::get" alt="" coords="229,208,339,235"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Vector.html#a3a018c83660a68f61f82bee5ec4dc4dc" title="Returns the number of irreps." alt="" coords="221,259,347,285"/>
+<area shape="rect" id="node9" href="$classpsi_1_1Vector.html#ad1d7994d0cdbdd84bfc1e6845d57f806" title="Returns the dimension array." alt="" coords="222,309,346,336"/>
+<area shape="rect" id="node10" href="$classpsi_1_1Vector.html#ac348b55847b3fbfa8abda223267bf394" title="Returns a single element value." alt="" coords="229,360,339,387"/>
+<area shape="rect" id="node11" href="$classpsi_1_1DIISManager.html#ab77557f4e5ca2fee9b3e04e82881b75f" title="psi::DIISManager::get\l_next_entry_id" alt="" coords="209,411,359,453"/>
+<area shape="rect" id="node12" href="$group__QT.html#gae1479e3f831fb539222f1ba2c5fa0452" title="psi::timer_off" alt="" coords="235,477,333,504"/>
+<area shape="rect" id="node3" href="$group__QT.html#ga86ba9a6fa70806080a0e81eb75a32f73" title="psi::timer_scan" alt="" coords="409,241,519,268"/>
+</map>

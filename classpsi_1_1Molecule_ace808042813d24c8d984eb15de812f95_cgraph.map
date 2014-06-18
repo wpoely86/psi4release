@@ -1,0 +1,4 @@
+<map id="psi::Molecule::has_symmetry_element" name="psi::Molecule::has_symmetry_element">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#af52dee4eb6dea302cf79d0a752ebef9c" title="Number of atoms." alt="" coords="195,5,338,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#a1360ca774c38edccb799c526617e8016" title="Returns a Vector3 with x, y, z position of atom." alt="" coords="203,56,331,83"/>
+</map>

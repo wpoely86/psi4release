@@ -1,0 +1,4 @@
+<map id="psi::scf::HF::compute_spin_contamination" name="psi::scf::HF::compute_spin_contamination">
+<area shape="rect" id="node2" href="$namespacepsi.html#a1112df35ff9d2b780efb0c24662f4fbe" title="psi::C_DGEMM" alt="" coords="203,5,317,32"/>
+<area shape="rect" id="node3" href="$group__QT.html#gafff0d5067135afa4228460272b6b4781" title="psi::C_DDOT" alt="" coords="209,56,311,83"/>
+</map>

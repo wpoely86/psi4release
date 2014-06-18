@@ -1,0 +1,11 @@
+<map id="psi::Molecule::form_symmetry_information" name="psi::Molecule::form_symmetry_information">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#aa5ffa4ef48aff48d39efc04ce0eeb72c" title="Release symmetry information." alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#af52dee4eb6dea302cf79d0a752ebef9c" title="Number of atoms." alt="" coords="222,71,365,97"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Molecule.html#a21c96046b307c2529536f5ffe3432b9a" title="Returns the cleaned up label of the atom (C2 =&gt; C, H4 = H)" alt="" coords="219,121,368,148"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Molecule.html#a1360ca774c38edccb799c526617e8016" title="Returns a Vector3 with x, y, z position of atom." alt="" coords="229,172,357,199"/>
+<area shape="rect" id="node6" href="$classpsi_1_1CharacterTable.html#a0a909440b38f331e3f04e2dbbc5c2a05" title="Returns the order of the point group." alt="" coords="225,223,361,265"/>
+<area shape="rect" id="node7" href="$classpsi_1_1CharacterTable.html#afd6b897e4cab23859aee0bf738d99ebc" title="Returns the i&#39;th symmetry operation." alt="" coords="225,289,361,330"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Molecule.html#a9771117014300e5850ead48a19b5ea43" title="Returns the overall number of the iuniq&#39;th unique atom." alt="" coords="221,355,366,381"/>
+<area shape="rect" id="node9" href="$classpsi_1_1Molecule.html#a68e51b7b7bbf4a252c443082217045a6" title="Nuclear charge of atom." alt="" coords="421,431,536,457"/>
+<area shape="rect" id="node10" href="$classpsi_1_1Molecule.html#a22d5837017766c120e7705211538b2e4" title="Returns mass atom atom." alt="" coords="224,456,363,483"/>
+</map>

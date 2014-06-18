@@ -1,0 +1,12 @@
+<map id="psi::Matrix::invert" name="psi::Matrix::invert">
+<area shape="rect" id="node2" href="$group__CIOMR.html#ga5342d96a20702d84857440badc8be2ec" title="psi::block_matrix" alt="" coords="191,5,313,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a8ef3df1219c5f674179ef37e707eb853" title="Returns the row size of the largest block." alt="" coords="177,56,327,83"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Matrix.html#aa1c916473848ba22b460e8cfaa39394f" title="Returns the column size of the largest block." alt="" coords="179,107,325,133"/>
+<area shape="rect" id="node8" href="$group__QT.html#gaaa00bb931504d4953c047ee58e7ba317" title="psi::invert_matrix" alt="" coords="191,157,313,184"/>
+<area shape="rect" id="node11" href="$group__CIOMR.html#gaeb4fe42f2b28f61fece2c6d63096126e" title="psi::free_block" alt="" coords="199,208,305,235"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="381,56,504,83"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#a9e517cfa7db99a049c4c2f1324286bbf" title="Returns the rows in irrep h." alt="" coords="376,5,509,32"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Matrix.html#af77ccf2eab7f3eed614c44492e9598d4" title="Returns the cols in irrep h." alt="" coords="378,107,507,133"/>
+<area shape="rect" id="node9" href="$group__CIOMR.html#ga35255b9a71ed5869db7c1c5507923929" title="psi::init_array" alt="" coords="393,157,493,184"/>
+<area shape="rect" id="node10" href="$group__CIOMR.html#gae22ab2f8c96f4c132c42cd405c805841" title="psi::init_int_array" alt="" coords="382,208,503,235"/>
+</map>

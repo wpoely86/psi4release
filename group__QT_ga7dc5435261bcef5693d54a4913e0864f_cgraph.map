@@ -1,0 +1,10 @@
+<map id="psi::pople" name="psi::pople">
+<area shape="rect" id="node2" href="$group__CIOMR.html#ga5342d96a20702d84857440badc8be2ec" title="psi::block_matrix" alt="" coords="134,5,255,32"/>
+<area shape="rect" id="node3" href="$group__CIOMR.html#ga35255b9a71ed5869db7c1c5507923929" title="psi::init_array" alt="" coords="305,157,405,184"/>
+<area shape="rect" id="node4" href="$group__CIOMR.html#ga86db3a2fc816b99e6b32eb307cbaa651" title="psi::print_mat" alt="" coords="144,107,245,133"/>
+<area shape="rect" id="node5" href="$group__CIOMR.html#ga954427c4da622125955f2d13e45aa9fb" title="psi::dot_arr" alt="" coords="151,157,238,184"/>
+<area shape="rect" id="node6" href="$group__CIOMR.html#ga4fe0e3d471a7dea06882d4c997775e1b" title="psi::zero_mat" alt="" coords="144,208,245,235"/>
+<area shape="rect" id="node7" href="$group__CIOMR.html#gafd02dddc9cfd72712540c0e7a437e55d" title="psi::flin" alt="" coords="163,259,227,285"/>
+<area shape="rect" id="node8" href="$group__CIOMR.html#ga683e8ba2785d12eb3a459661fc3f2b68" title="psi::zero_arr" alt="" coords="147,309,242,336"/>
+<area shape="rect" id="node9" href="$group__CIOMR.html#gaeb4fe42f2b28f61fece2c6d63096126e" title="psi::free_block" alt="" coords="141,360,248,387"/>
+</map>

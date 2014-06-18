@@ -1,0 +1,5 @@
+<map id="psi::BasisSet::print_summary" name="psi::BasisSet::print_summary">
+<area shape="rect" id="node2" href="$classpsi_1_1GaussianShell.html#a6357046b29b9394c46eecbf0558b4631" title="The angular momentum of the given contraction." alt="" coords="187,5,344,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1GaussianShell.html#acfe27390e178ccc5716f18249c73e4a2" title="The number of primitive Gaussians." alt="" coords="200,57,331,98"/>
+<area shape="rect" id="node4" href="$classpsi_1_1GaussianShell.html#a000768e3ae5950a885705e3cd3a34854" title="The character symbol for the angular momentum of the given contraction." alt="" coords="200,122,331,163"/>
+</map>

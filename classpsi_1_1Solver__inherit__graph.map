@@ -1,0 +1,8 @@
+<map id="psi::Solver" name="psi::Solver">
+<area shape="rect" id="node2" href="$classpsi_1_1RSolver.html" title="psi::RSolver" alt="" coords="153,80,247,107"/>
+<area shape="rect" id="node7" href="$classpsi_1_1USolver.html" title="psi::USolver" alt="" coords="271,80,365,107"/>
+<area shape="rect" id="node3" href="$classpsi_1_1CGRSolver.html" title="psi::CGRSolver" alt="" coords="5,155,120,181"/>
+<area shape="rect" id="node4" href="$classpsi_1_1DLRSolver.html" title="psi::DLRSolver" alt="" coords="145,155,255,181"/>
+<area shape="rect" id="node6" href="$classpsi_1_1DLRXSolver.html" title="psi::DLRXSolver" alt="" coords="280,155,400,181"/>
+<area shape="rect" id="node5" href="$classpsi_1_1RayleighRSolver.html" title="psi::RayleighRSolver" alt="" coords="127,229,272,256"/>
+</map>

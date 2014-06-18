@@ -1,0 +1,12 @@
+<map id="psi::Matrix::expm" name="psi::Matrix::expm">
+<area shape="rect" id="node2" href="$group__QT.html#gaed877a653f8542c11a21987ae0f1e160" title="psi::C_DSCAL" alt="" coords="185,5,295,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a5cf27d2c4c5dca04a578ed4f9cc2aad7" title="allocate a block matrix – analogous to libciomr&#39;s block_matrix" alt="" coords="177,56,303,83"/>
+<area shape="rect" id="node7" href="$group__QT.html#gafef01298916a61134e83eeb4c9649a0d" title="psi::C_DAXPY" alt="" coords="185,107,295,133"/>
+<area shape="rect" id="node8" href="$namespacepsi.html#a1112df35ff9d2b780efb0c24662f4fbe" title="psi::C_DGEMM" alt="" coords="183,157,297,184"/>
+<area shape="rect" id="node9" href="$group__QT.html#ga5a32fab1a77d1ea47a9145a8e124ea9c" title="psi::C_DGETRF" alt="" coords="181,208,299,235"/>
+<area shape="rect" id="node10" href="$namespacepsi.html#aa4297da7ca4fc2c7aa1234927a5bb111" title="psi::C_DGETRS" alt="" coords="180,259,300,285"/>
+<area shape="rect" id="node11" href="$classpsi_1_1Matrix.html#a391d00e36473a7081ff510b4e42ec37f" title="free a (block) matrix – analogous to libciomr&#39;s free_block" alt="" coords="183,309,297,336"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a1a2168c5e0a0b8b003dae927e4050c7b" title="Returns the total number of rows." alt="" coords="353,56,471,83"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="525,31,648,57"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Matrix.html#a9e517cfa7db99a049c4c2f1324286bbf" title="Returns the rows in irrep h." alt="" coords="520,81,653,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="yeti::YetiException" name="yeti::YetiException">
+<area shape="rect" id="node3" href="$classyeti_1_1LimitExceeded.html" title="yeti::LimitExceeded\l\&lt; size_t \&gt;" alt="" coords="663,46,801,87"/>
+<area shape="rect" id="node5" href="$classyeti_1_1FeatureNotImplemented.html" title="yeti::FeatureNotImplemented" alt="" coords="339,32,530,59"/>
+<area shape="rect" id="node6" href="$classyeti_1_1InputException.html" title="yeti::InputException" alt="" coords="365,83,504,109"/>
+<area shape="rect" id="node7" href="$classyeti_1_1LimitExceeded.html" title="yeti::LimitExceeded\&lt; T \&gt;" alt="" coords="350,133,519,160"/>
+<area shape="rect" id="node8" href="$classyeti_1_1SanityCheckError.html" title="yeti::SanityCheckError" alt="" coords="357,184,512,211"/>
+<area shape="rect" id="node4" href="$classyeti_1_1ResourceAllocationError.html" title="yeti::ResourceAllocation\lError" alt="" coords="873,46,1037,87"/>
+<area shape="rect" id="node9" href="$classyeti_1_1ValuesNotEqual.html" title="yeti::ValuesNotEqual\&lt; T \&gt;" alt="" coords="643,184,821,211"/>
+</map>

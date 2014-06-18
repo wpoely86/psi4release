@@ -1,0 +1,5 @@
+<map id="psi::Matrix::schmidt_orthog_columns" name="psi::Matrix::schmidt_orthog_columns">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="196,5,319,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#ab375f9e8a5d1c9b4c08667c728ff04d2" title="Returns the rows per irrep array." alt="" coords="193,56,322,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a3286e581ac7248f58ae3de82cd29cc6d" title="Returns the columns per irrep array." alt="" coords="195,107,320,133"/>
+</map>

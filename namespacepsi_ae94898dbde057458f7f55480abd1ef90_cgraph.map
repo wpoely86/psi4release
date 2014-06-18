@@ -1,0 +1,9 @@
+<map id="psi::benchmark_blas1" name="psi::benchmark_blas1">
+<area shape="rect" id="node2" href="$group__CIOMR.html#ga35255b9a71ed5869db7c1c5507923929" title="psi::init_array" alt="" coords="210,5,310,32"/>
+<area shape="rect" id="node3" href="$group__QT.html#gaed877a653f8542c11a21987ae0f1e160" title="psi::C_DSCAL" alt="" coords="205,56,315,83"/>
+<area shape="rect" id="node4" href="$group__QT.html#gada1f89a2db3689c3e7482ea755b49b27" title="psi::C_DCOPY" alt="" coords="204,107,316,133"/>
+<area shape="rect" id="node5" href="$group__QT.html#ga33ba35d35184dab8f9ad1eac331e4747" title="psi::C_DSWAP" alt="" coords="203,157,317,184"/>
+<area shape="rect" id="node6" href="$group__QT.html#gafef01298916a61134e83eeb4c9649a0d" title="psi::C_DAXPY" alt="" coords="205,208,315,235"/>
+<area shape="rect" id="node7" href="$group__QT.html#gafff0d5067135afa4228460272b6b4781" title="psi::C_DDOT" alt="" coords="209,259,311,285"/>
+<area shape="rect" id="node8" href="$group__QT.html#gafbb95a4ea160026291b1850b3571d5ed" title="psi::C_DROT" alt="" coords="209,309,311,336"/>
+</map>

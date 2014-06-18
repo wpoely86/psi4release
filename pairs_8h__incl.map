@@ -1,0 +1,27 @@
+<map id="pairs.h" name="pairs.h">
+<area shape="rect" id="node3" href="$libciomr_8h_source.html" title="libciomr/libciomr.h" alt="" coords="662,155,788,181"/>
+<area shape="rect" id="node4" href="$parallel_8h_source.html" title="libparallel/parallel.h" alt="" coords="897,304,1028,331"/>
+<area shape="rect" id="node33" href="$qt_8h.html" title="Header file for the Quantum Trio LibraryDavid Sherrill 1994." alt="" coords="1149,229,1221,256"/>
+<area shape="rect" id="node34" href="$rhf_8h_source.html" title="rhf.h" alt="" coords="1905,80,1953,107"/>
+<area shape="rect" id="node8" href="$psi4-dec_8h_source.html" title="psi4&#45;dec.h" alt="" coords="1127,453,1209,480"/>
+<area shape="rect" id="node7" href="$libparallel_2local_8h_source.html" title="libparallel/local.h" alt="" coords="877,379,995,405"/>
+<area shape="rect" id="node32" href="$openmp_8h_source.html" title="libparallel/openmp.h" alt="" coords="863,453,1000,480"/>
+<area shape="rect" id="node13" href="$liboptions_8h_source.html" title="liboptions/liboptions.h" alt="" coords="1603,528,1749,555"/>
+<area shape="rect" id="node23" href="$include_2exception_8h_source.html" title="exception.h" alt="" coords="279,528,368,555"/>
+<area shape="rect" id="node28" href="$typedefs_8h_source.html" title="libmints/typedefs.h" alt="" coords="1127,528,1259,555"/>
+<area shape="rect" id="node16" href="$libutil_8h_source.html" title="libutil/libutil.h" alt="" coords="1738,611,1835,637"/>
+<area shape="rect" id="node18" href="$libutil_2ref_8h_source.html" title="libutil/ref.h" alt="" coords="1161,611,1244,637"/>
+<area shape="rect" id="node29" href="$compiler_8h_source.html" title="compiler.h" alt="" coords="687,611,769,637"/>
+<area shape="rect" id="node30" href="$dimension_8h_source.html" title="dimension.h" alt="" coords="1269,611,1360,637"/>
+<area shape="rect" id="node35" href="$psio_8hpp_source.html" title="libpsio/psio.hpp" alt="" coords="2540,229,2652,256"/>
+<area shape="rect" id="node39" href="$hf_8h_source.html" title="hf.h" alt="" coords="1907,155,1951,181"/>
+<area shape="rect" id="node38" href="$libpsio_2config_8h_source.html" title="libpsio/config.h" alt="" coords="2780,304,2889,331"/>
+<area shape="rect" id="node40" href="$wavefunction_8h_source.html" title="libmints/wavefunction.h" alt="" coords="1335,229,1493,256"/>
+<area shape="rect" id="node42" href="$basisset_8h_source.html" title="libmints/basisset.h" alt="" coords="1469,379,1600,405"/>
+<area shape="rect" id="node46" href="$vector_8h_source.html" title="libmints/vector.h" alt="" coords="1870,379,1988,405"/>
+<area shape="rect" id="node49" href="$diismanager_8h_source.html" title="libdiis/diismanager.h" alt="" coords="2317,453,2456,480"/>
+<area shape="rect" id="node50" href="$diisentry_8h_source.html" title="diisentry.h" alt="" coords="2231,528,2313,555"/>
+<area shape="rect" id="node44" href="$gshell_8h_source.html" title="gshell.h" alt="" coords="1385,611,1452,637"/>
+<area shape="rect" id="node45" href="$lib_2libmints_2molecule_8h_source.html" title="molecule.h" alt="" coords="1487,453,1572,480"/>
+<area shape="rect" id="node47" href="$libparallel_2serialize_8h_source.html" title="libparallel/serialize.h" alt="" coords="2052,453,2191,480"/>
+</map>

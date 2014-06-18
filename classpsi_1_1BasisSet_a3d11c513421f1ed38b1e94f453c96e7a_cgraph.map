@@ -1,0 +1,6 @@
+<map id="psi::BasisSet::add" name="psi::BasisSet::add">
+<area shape="rect" id="node2" href="$classpsi_1_1BasisSet.html#acb64dc1fe2ff3b7a03d84eb1036b8f72" title="psi::BasisSet::molecule" alt="" coords="184,5,344,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1BasisSet.html#a6f4698dd8ae45cafd98638fe2489544c" title="Return the number of shells on a given center." alt="" coords="193,57,335,98"/>
+<area shape="rect" id="node4" href="$classpsi_1_1BasisSet.html#afbb927bc76c74ff1f9aa8a46f33df75c" title="psi::BasisSet::shell" alt="" coords="197,123,331,149"/>
+<area shape="rect" id="node5" href="$classpsi_1_1BasisSet.html#a2fbc50ebe98165b9f59fdfe09cf5b5d2" title="psi::BasisSet::refresh" alt="" coords="190,173,338,200"/>
+</map>

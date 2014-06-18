@@ -1,0 +1,5 @@
+<map id="psi::Molecule::create_psi4_string_from_molecule" name="psi::Molecule::create_psi4_string_from_molecule">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#aa462a921ed5cb5cac44a22609fdc39b7" title="Number of all atoms (includes dummies)" alt="" coords="238,5,394,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#aaa448b0b8536f46c00e21812a3acd5f6" title="Nuclear charge of atom." alt="" coords="257,56,375,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Molecule.html#a7633bb49bc47ce60cedd4d3d4cb49a6c" title="Returns the cleaned up label of the atom (C2 =&gt; C, H4 = H)" alt="" coords="239,107,393,133"/>
+</map>

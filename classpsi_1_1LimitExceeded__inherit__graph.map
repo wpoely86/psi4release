@@ -1,0 +1,7 @@
+<map id="psi::LimitExceeded&lt; T &gt;" name="psi::LimitExceeded&lt; T &gt;">
+<area shape="rect" id="node4" href="$classpsi_1_1MaxIterationsExceeded.html" title="psi::MaxIterationsExceeded\&lt; T \&gt;" alt="" coords="568,5,784,32"/>
+<area shape="rect" id="node6" href="$classpsi_1_1ResourceAllocationError.html" title="psi::ResourceAllocationError\&lt; T \&gt;" alt="" coords="566,56,786,83"/>
+<area shape="rect" id="node7" href="$classpsi_1_1StepSizeError.html" title="psi::StepSizeError\&lt; T \&gt;" alt="" coords="596,107,756,133"/>
+<area shape="rect" id="node2" href="$classpsi_1_1PsiException.html" title="psi::PsiException" alt="" coords="179,56,303,83"/>
+<area shape="rect" id="node5" href="$classpsi_1_1ConvergenceError.html" title="psi::ConvergenceError\&lt; T \&gt;" alt="" coords="835,5,1019,32"/>
+</map>

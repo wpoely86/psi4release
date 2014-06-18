@@ -1,0 +1,6 @@
+<map id="psi::CoreTensor::permute" name="psi::CoreTensor::permute">
+<area shape="rect" id="node2" href="$classpsi_1_1CoreTensor.html#a311e24285f653ce6fdd1b9cdcf04a953" title="Throw an exception if the tensor is swapped out or disk based." alt="" coords="224,23,379,65"/>
+<area shape="rect" id="node5" href="$group__QT.html#gada1f89a2db3689c3e7482ea755b49b27" title="psi::C_DCOPY" alt="" coords="245,89,357,116"/>
+<area shape="rect" id="node3" href="$classpsi_1_1CoreTensor.html#ad6870f1867a860426e4e3c42ac046590" title="Is this a core tensor?" alt="" coords="441,5,589,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1CoreTensor.html#acd6feea8e73c7632ec5287ce3710ec48" title="Is this a swapped&#45;out core tensor?" alt="" coords="427,56,602,83"/>
+</map>

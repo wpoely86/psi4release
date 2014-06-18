@@ -1,0 +1,14 @@
+<map id="yeti::DataStorageBlockAllocator" name="yeti::DataStorageBlockAllocator">
+<area shape="rect" id="node2" href="$classyeti_1_1Cachable.html" title="yeti::Cachable" alt="" coords="1509,81,1616,108"/>
+<area shape="rect" id="node3" href="$classyeti_1_1YetiRuntimeCountable.html" title="yeti::YetiRuntimeCountable" alt="" coords="1203,64,1386,91"/>
+<area shape="rect" id="node4" href="$classsmartptr_1_1Countable.html" title="smartptr::Countable" alt="" coords="994,5,1131,32"/>
+<area shape="rect" id="node5" href="$classyeti_1_1YetiThreadedRuntimeObject.html" title="yeti::YetiThreadedRuntime\lObject" alt="" coords="974,57,1151,98"/>
+<area shape="rect" id="node6" href="$classyeti_1_1YetiRuntimeObject.html" title="yeti::YetiRuntimeObject" alt="" coords="726,40,887,67"/>
+<area shape="rect" id="node7" href="$classyeti_1_1ThreadLock.html" title="yeti::ThreadLock" alt="" coords="747,91,866,117"/>
+<area shape="rect" id="node8" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; ThreadLock \&gt;" alt="" coords="315,91,496,117"/>
+<area shape="rect" id="node9" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; T \&gt;" alt="" coords="6,141,127,168"/>
+<area shape="rect" id="node11" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; DataStorage\lNode \&gt;" alt="" coords="526,134,701,175"/>
+<area shape="rect" id="node13" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; StorageBlock \&gt;" alt="" coords="310,192,501,219"/>
+<area shape="rect" id="node10" href="$structyeti_1_1DataStorageNode.html" title="yeti::DataStorageNode" alt="" coords="985,161,1140,188"/>
+<area shape="rect" id="node12" href="$classyeti_1_1StorageBlock.html" title="yeti::StorageBlock" alt="" coords="742,192,871,219"/>
+</map>

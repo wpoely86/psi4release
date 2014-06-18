@@ -1,0 +1,9 @@
+<map id="psi::Matrix::Matrix" name="psi::Matrix::Matrix">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a65ec285afc6f80a629c752f684e364f1" title="Allocates matrix_." alt="" coords="182,31,301,57"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#ab59f4a769478018f0b27663e58212ae0" title="Release matrix_." alt="" coords="349,5,483,32"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#a5cf27d2c4c5dca04a578ed4f9cc2aad7" title="allocate a block matrix – analogous to libciomr&#39;s block_matrix" alt="" coords="353,56,479,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a391d00e36473a7081ff510b4e42ec37f" title="free a (block) matrix – analogous to libciomr&#39;s free_block" alt="" coords="534,5,647,32"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Matrix.html#a1a2168c5e0a0b8b003dae927e4050c7b" title="Returns the total number of rows." alt="" coords="531,56,650,83"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="704,31,827,57"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Matrix.html#a9e517cfa7db99a049c4c2f1324286bbf" title="Returns the rows in irrep h." alt="" coords="699,81,832,108"/>
+</map>

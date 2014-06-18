@@ -1,0 +1,5 @@
+<map id="psi::C_DGETRI" name="psi::C_DGETRI">
+<area shape="rect" id="node2" href="$namespacepsi.html#a7fe743339b4c555d69aa96c0bdea7474" title="psi::benchmark_blas3" alt="" coords="168,5,317,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#aea2c06dc15f334f26c5a028c45cd59ab" title="psi::Matrix::general\l_invert" alt="" coords="176,57,309,98"/>
+<area shape="rect" id="node4" href="$namespacepsi.html#a7fed4140d96e6a1dd548a44a41448664" title="PSI_DGETRI, a wrapper to return C_DGETRI using objects." alt="" coords="179,147,306,173"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rapidxml::xml_base::value" name="rapidxml::xml_base::value">
+<area shape="rect" id="node2" href="$classrapidxml_1_1memory__pool.html#a4118581c29ee9a2f6b55ebf7dac185f8" title="rapidxml::memory_pool\l::allocate_node" alt="" coords="189,5,347,46"/>
+<area shape="rect" id="node4" href="$classrapidxml_1_1memory__pool.html#a3de2a66c983336e006ea3844e244ed30" title="rapidxml::memory_pool\l::allocate_attribute" alt="" coords="189,70,347,111"/>
+<area shape="rect" id="node3" href="$classrapidxml_1_1memory__pool.html#a0a10679fc17597d339a0dc107f8a94ac" title="rapidxml::memory_pool\l::clone_node" alt="" coords="395,70,552,111"/>
+<area shape="rect" id="node5" href="$classrapidxml_1_1xml__base.html#a3b183c2db7022a6d30494dd2f0ac11e9" title="rapidxml::xml_base\l::value" alt="" coords="201,187,335,229"/>
+</map>

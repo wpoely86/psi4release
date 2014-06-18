@@ -1,0 +1,14 @@
+<map id="psi::Matrix::load" name="psi::Matrix::load">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a6cd9a2b1514f01fde22071c45f873d48" title="psi::Matrix::set_name" alt="" coords="169,5,317,32"/>
+<area shape="rect" id="node4" href="$namespacepsi.html#a89fe6317a550161d8b053d2d1686c02c" title="psi::str_to_int" alt="" coords="192,80,293,107"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#ab59f4a769478018f0b27663e58212ae0" title="Release matrix_." alt="" coords="365,131,499,157"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Matrix.html#a65ec285afc6f80a629c752f684e364f1" title="Allocates matrix_." alt="" coords="183,181,302,208"/>
+<area shape="rect" id="node12" href="$classpsi_1_1Matrix.html#a0764fae6bafeb8425318d6e0e379727b" title="Zeros this out." alt="" coords="185,232,301,259"/>
+<area shape="rect" id="node13" href="$namespacepsi.html#a2c62ee3e6ebd249518cb533e988b9d9c" title="psi::str_to_double" alt="" coords="180,307,305,333"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a61dd772fa67f731dbb0b6325830a29f6" title="psi::Matrix::name" alt="" coords="371,5,493,32"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Matrix.html#a391d00e36473a7081ff510b4e42ec37f" title="free a (block) matrix – analogous to libciomr&#39;s free_block" alt="" coords="550,131,663,157"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Matrix.html#a5cf27d2c4c5dca04a578ed4f9cc2aad7" title="allocate a block matrix – analogous to libciomr&#39;s block_matrix" alt="" coords="369,181,495,208"/>
+<area shape="rect" id="node9" href="$classpsi_1_1Matrix.html#a1a2168c5e0a0b8b003dae927e4050c7b" title="Returns the total number of rows." alt="" coords="547,181,666,208"/>
+<area shape="rect" id="node10" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="720,156,843,183"/>
+<area shape="rect" id="node11" href="$classpsi_1_1Matrix.html#a9e517cfa7db99a049c4c2f1324286bbf" title="Returns the rows in irrep h." alt="" coords="715,207,848,233"/>
+</map>

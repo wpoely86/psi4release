@@ -1,0 +1,8 @@
+<map id="psi::fnocc::CoupledCluster::DefineQuadraticTasks" name="psi::fnocc::CoupledCluster::DefineQuadraticTasks">
+<area shape="rect" id="node2" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#aecce74e72eaecb4a93fb963f6acf54ae" title="linear diagrams for mp4" alt="" coords="233,5,410,46"/>
+<area shape="rect" id="node4" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#aaaa19cf4950ebb6281c907b60920ee53" title="psi::fnocc::CoupledCluster\l::I2ijkl_quadratic" alt="" coords="233,70,410,111"/>
+<area shape="rect" id="node5" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#ae235011106dbade2d4adb7a3607b3701" title="psi::fnocc::CoupledCluster\l::CPU_I1ab_quadratic" alt="" coords="233,135,410,177"/>
+<area shape="rect" id="node6" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#add6beaef6c2555fc8f4a5285c9e099a0" title="psi::fnocc::CoupledCluster\l::CPU_I1pij_I1ia_lessmem\l_quadratic" alt="" coords="232,201,411,257"/>
+<area shape="rect" id="node7" href="$classpsi_1_1fnocc_1_1CoupledCluster.html#af8165505ccf2af06cbaf0cbb8713ce5e" title="psi::fnocc::CoupledCluster\l::I2iajb_quadratic" alt="" coords="233,282,410,323"/>
+<area shape="rect" id="node3" href="$group__QT.html#gada1f89a2db3689c3e7482ea755b49b27" title="psi::C_DCOPY" alt="" coords="459,143,571,169"/>
+</map>

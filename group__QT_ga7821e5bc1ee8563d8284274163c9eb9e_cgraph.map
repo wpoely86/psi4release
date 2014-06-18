@@ -1,0 +1,5 @@
+<map id="psi::slaterdetset_write" name="psi::slaterdetset_write">
+<area shape="rect" id="node2" href="$group__QT.html#gaf365a9600d2d5b4a83eb37faa58b1d34" title="psi::stringset_write" alt="" coords="206,56,338,83"/>
+<area shape="rect" id="node3" href="$group__PSIO.html#ga6767d56ea81c4ea0ac62ec194fc4e6e3" title="psi::psio_write_entry" alt="" coords="387,5,530,32"/>
+<area shape="rect" id="node4" href="$group__PSIO.html#gaac73c196234f26dcd094674cc29a6b18" title="psi::psio_write" alt="" coords="405,56,512,83"/>
+</map>

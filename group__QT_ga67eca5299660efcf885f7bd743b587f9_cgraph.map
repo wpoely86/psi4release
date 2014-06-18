@@ -1,0 +1,11 @@
+<map id="psi::slaterdetvector_read" name="psi::slaterdetvector_read">
+<area shape="rect" id="node2" href="$group__QT.html#ga4a2d65a1290e904986d93f3436848ab0" title="psi::slaterdetset_read" alt="" coords="235,81,381,108"/>
+<area shape="rect" id="node8" href="$group__QT.html#gad92f6aaa81bb1d58628d4789be57d1d4" title="psi::slaterdetvector_init" alt="" coords="229,157,387,184"/>
+<area shape="rect" id="node10" href="$group__QT.html#ga1c0d9992fdf633f70982de16d3021933" title="psi::slaterdetset_read_vect" alt="" coords="219,208,397,235"/>
+<area shape="rect" id="node3" href="$group__QT.html#gac15eb8e301802fa8f61e31f6a4b0b3c2" title="psi::stringset_read" alt="" coords="450,5,579,32"/>
+<area shape="rect" id="node4" href="$group__PSIO.html#ga99f8fc4eb069614c46d11d44646251e6" title="psi::psio_read_entry" alt="" coords="632,107,771,133"/>
+<area shape="rect" id="node7" href="$group__QT.html#ga0cbaa8b39c036ee7aaef4c9bd40e8361" title="psi::slaterdetset_init" alt="" coords="445,56,584,83"/>
+<area shape="rect" id="node6" href="$group__QT.html#gafada6de1652da33accacc15f68333d5b" title="psi::stringset_init" alt="" coords="641,56,762,83"/>
+<area shape="rect" id="node5" href="$group__PSIO.html#ga7fb52625f96f6373eca3de9dcdf9487f" title="psi::psio_read" alt="" coords="819,56,922,83"/>
+<area shape="rect" id="node9" href="$group__CIOMR.html#ga35255b9a71ed5869db7c1c5507923929" title="psi::init_array" alt="" coords="465,157,565,184"/>
+</map>

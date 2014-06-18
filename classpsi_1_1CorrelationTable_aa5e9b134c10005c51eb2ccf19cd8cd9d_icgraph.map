@@ -1,0 +1,6 @@
+<map id="psi::CorrelationTable::gamma" name="psi::CorrelationTable::gamma">
+<area shape="rect" id="node2" href="$classpsi_1_1CorrelationTable.html#a2b1289edd76a290fd793c04a29539c9f" title="psi::CorrelationTable\l::initialize_table" alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Wavefunction.html#ab109eb4819fe7b40aacadc1b0c346ef3" title="Takes an irrep&#45;by&#45;irrep array (e.g. DOCC) and maps it into the current point group." alt="" coords="202,70,337,111"/>
+<area shape="rect" id="node3" href="$classpsi_1_1CorrelationTable.html#af0f7df925e462500ec4e606e188adb60" title="Create a correlation table for the two groups." alt="" coords="390,5,533,46"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Wavefunction.html#ace5000214f8b1e126012132b21befb6c" title="A wrapper to the Vector version of this function." alt="" coords="394,70,529,111"/>
+</map>

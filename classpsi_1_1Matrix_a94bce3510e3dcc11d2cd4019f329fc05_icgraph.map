@@ -1,0 +1,5 @@
+<map id="psi::Matrix::to_block_matrix" name="psi::Matrix::to_block_matrix">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a72ce3b0a65b8118bf40ad72b373fc77a" title="psi::Matrix::to_lower\l_triangle" alt="" coords="195,25,335,66"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a504437ba978cdadc160b0a41e7bdc1b0" title="psi::Matrix::save" alt="" coords="385,5,503,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a5565e99a42eea2302f10857c1dc2b28c" title="psi::Matrix::load" alt="" coords="387,60,501,87"/>
+</map>

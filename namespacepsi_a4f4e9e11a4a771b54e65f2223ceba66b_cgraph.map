@@ -1,0 +1,5 @@
+<map id="psi::benchmark_blas2" name="psi::benchmark_blas2">
+<area shape="rect" id="node2" href="$group__CIOMR.html#ga35255b9a71ed5869db7c1c5507923929" title="psi::init_array" alt="" coords="210,5,310,32"/>
+<area shape="rect" id="node3" href="$namespacepsi.html#a8f839afc1a7e4950dbaa3521e5eae60f" title="psi::C_DGEMV" alt="" coords="203,56,317,83"/>
+<area shape="rect" id="node4" href="$namespacepsi.html#aa167c724fe9d2511e1f80dbe5125425e" title="psi::C_DGER" alt="" coords="209,107,311,133"/>
+</map>

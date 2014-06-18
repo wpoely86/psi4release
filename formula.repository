@@ -1,0 +1,74 @@
+\form#0:$O$
+\form#1:$X OX^T$
+\form#2:$X$
+\form#3:$ X^T O_ao X$
+\form#4:$ O_ao $
+\form#5:$ X F_so $
+\form#6:$ F_so $
+\form#7:$ X^T O_so X$
+\form#8:$ O_so $
+\form#9:$ X F_ao $
+\form#10:$ F_ao $
+\form#11:\[ \mathcal{F}_{ae}(\mu) = (1-\delta_{ae}) < a| \hat{F}_{\mu}^{A} + \hat{F}_{\mu}^{E}|e> \]
+\form#12:\[ \mathcal{F}_{AE}(\mu) = (1-\delta_{AE}) < A| \hat{F}_{\mu}^{A} + \hat{F}_{\mu}^{E}|E> \]
+\form#13:\[ \mathcal{F}_{mi}(\mu) = (1-\delta_{mi}) <m| \hat{F}_{\mu}^{D} + \hat{F}_{\mu}^{A}|i> \]
+\form#14:\[ \mathcal{F}_{MI}(\mu) = (1-\delta_{MI}) <M| \hat{F}_{\mu}^{D} + \hat{F}_{\mu}^{A}|I> \]
+\form#15:\[ <uv||xy> + P(xy) \sum_{e} t_{uv}^{xe}(\mu) f_{ye}(\mu) - P(uv) \sum_{m} t_{um}^{xy}(\mu) f_{mv}(\mu) \]
+\form#16:\[ + \frac{1}{2} \sum_{mn} t_{mn}^{xy}(\mu) <mn||uv> + \frac{1}{2} \sum_{ef} t_{uv}^{ef}(\mu) <xy||ef> + P(uv)P(xy) \sum_{me} t_{um}^{xe}(\mu) <my||ev> \]
+\form#17:\[ + P(uv) \sum_{e} t_{u}^{e}(\mu) <xy||ev> - P(xy) \sum_{m} t_{m}^{x}(\mu) <my||uv> \]
+\form#18:\[ f_{uv}(\mu) + \sum_{e} t_u^e(\mu) f_{ve}(\mu) - \sum_{m} t_m^v(\mu) f_{mu}(\mu) + \sum_{me} t_{um}^{ve}(\mu) f_{me}(\mu) - \sum_{nf} t_{n}^{f}(\mu) <nv||uf> - \frac{1}{2} \sum_{mef} t_{um}^{ef}(\mu) <mv||ef> - \frac{1}{2} \sum_{mne} t_{mn}^{ve}(\mu) <nm||eu> \]
+\form#19:\[ f_{UV}(\mu) + \sum_{E} t_U^E(\mu) f_{VE}(\mu) - \sum_{M} t_M^V(\mu) f_{MU}(\mu) + \sum_{me} t_{Um}^{Ve}(\mu) f_{me}(\mu) - \sum_{nf} t_{n}^{f}(\mu) <nV||Uf> - \frac{1}{2} \sum_{mef} t_{Um}^{ef}(\mu) <mV||ef> - \frac{1}{2} \sum_{mne} t_{mn}^{Ve}(\mu) <nm||eU> \]
+\form#20:\[ \mathcal{F}_{ai}(\mu) + \sum_{e} t_i^e(\mu) \mathcal{F}_{ae}(\mu) - \sum_{m} t_m^a(\mu) \mathcal{F}_{mi}(\mu) + \sum_{uv} t_{iu}^{av}(\mu) \mathcal{F}_{uv}(\mu) + \sum_{UV} t_{iU}^{aV}(\mu) \mathcal{F}_{UV}(\mu) \]
+\form#21:\[ \mathcal{F}_{AI}(\mu) + \sum_{E} t_I^E(\mu) \mathcal{F}_{AE}(\mu) - \sum_{M} t_M^A(\mu) \mathcal{F}_{MI}(\mu) + \sum_{uv} t_{uI}^{vA}(\mu) \mathcal{F}_{uv}(\mu) + \sum_{UV} t_{IU}^{AV}(\mu) \mathcal{F}_{UV}(\mu) \]
+\form#22:\[ <iJ||aB> + P(aB) \sum_{e} t_{iJ}^{ae}(\mu) \mathcal{F}_{Be}(\mu) - P(iJ) \sum_{m} t_{im}^{aB}(\mu) \mathcal{F}_{mJ}(\mu) \]
+\form#23:\[ <ij||ab> + P(ab) \sum_{e} t_{ij}^{ae}(\mu) \mathcal{F}_{be}(\mu) - P(ij) \sum_{m} t_{im}^{ab}(\mu) \mathcal{F}_{mj}(\mu) \]
+\form#24:\[ <IJ||AB> + P(AB) \sum_{e} t_{IJ}^{Ae}(\mu) \mathcal{F}_{Be}(\mu) - P(IJ) \sum_{m} t_{Im}^{AB}(\mu) \mathcal{F}_{mJ}(\mu) \]
+\form#25:$ E = \mathbf{c}^{\dagger} \mathbf{H} \mathbf{c} $
+\form#26:$ \mathbf{c} $
+\form#27:$ \mathbf{H} $
+\form#28:$ E $
+\form#29:$ \mathbf{H}^{\mathrm{eff}} $
+\form#30:\[ \Delta_{ij...}^{ab...}(\mu) = f_{ii}(\mu) + f_{jj}(\mu) + ... - f_{aa}(\mu) - f_{bb}(\mu) - ... \]
+\form#31:$ \mu $
+\form#32:$ M_{pq} $
+\form#33:$ Z_{ijk}^{abc} $
+\form#34:\[ \bar{H}_{ijk}^{[abc]} += Z_{ijk}^{[abc]} \]
+\form#35:\[ \bar{H}_{[ijk]}^{abc} += Z_{[ijk]}^{abc} \]
+\form#36:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, -\bar{H}_{jik}^{abc} \]
+\form#37:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, -\bar{H}_{ijk}^{cba}, -\bar{H}_{ijk}^{acb} \]
+\form#38:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, -\bar{H}_{ikj}^{abc} \]
+\form#39:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, -\bar{H}_{ijk}^{bac} \]
+\form#40:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, -\bar{H}_{ijk}^{acb} \]
+\form#41:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, -\bar{H}_{kji}^{abc}, -\bar{H}_{ikj}^{abc} \]
+\form#42:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, \bar{H}_{kij}^{abc}, \bar{H}_{jki}^{abc},-\bar{H}_{jik}^{abc},-\bar{H}_{kji}^{abc},-\bar{H}_{ikj}^{abc} \]
+\form#43:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, -\bar{H}_{ijk}^{bac},-\bar{H}_{jik}^{abc}, \bar{H}_{jik}^{bac} \]
+\form#44:\[ Z_{ijk}^{abc} \rightarrow \{ \bar{H}_{ijk}^{abc}, -\bar{H}_{ijk}^{acb},-\bar{H}_{ikj}^{abc}, \bar{H}_{ikj}^{acb} \]
+\form#45:\[ Z_{ijk}^{abc} \rightarrow \left\{ \begin{array}{ccc} \bar{H}_{ijk}^{abc}, & - \bar{H}_{ijk}^{bac}, & - \bar{H}_{ijk}^{cba} \\ - \bar{H}_{kji}^{abc}, & \bar{H}_{kji}^{bac}, & \bar{H}_{kji}^{cba} \\ - \bar{H}_{ikj}^{abc}, & \bar{H}_{ikj}^{bac}, & \bar{H}_{ikj}^{cba} \end{array} \right. \]
+\form#46:\[ Z_{ijk}^{abc} \rightarrow \left\{ \begin{array}{ccc} \bar{H}_{ijk}^{abc}, & - \bar{H}_{ijk}^{cba}, & - \bar{H}_{ijk}^{acb} \\ - \bar{H}_{jik}^{abc}, & \bar{H}_{jik}^{cba}, & \bar{H}_{jik}^{acb} \\ - \bar{H}_{kji}^{abc}, & \bar{H}_{kji}^{cba}, & \bar{H}_{kji}^{acb} \end{array} \right. \]
+\form#47:\[ Z_{ijk}^{abc} \rightarrow \left\{ \begin{array}{ccc} \bar{H}_{ijk}^{abc}, & - \bar{H}_{ijk}^{bac}, & - \bar{H}_{ijk}^{cba} \\ - \bar{H}_{jik}^{abc}, & \bar{H}_{jik}^{bac}, & \bar{H}_{jik}^{cba} \\ - \bar{H}_{kji}^{abc}, & \bar{H}_{kji}^{bac}, & \bar{H}_{kji}^{cba} \end{array} \right. \]
+\form#48:\[ F_{ae} = (1-\delta_{ae})f_{ae} - \frac{1}{2} \sum_m f_{me} t_m^a + \sum_{mf} t_m^f <ma||fe> - \frac{1}{2} \sum_{mnf} \tilde{\tau}_{in}^{af} <mn||ef> \]
+\form#49:\[ F_{mi} = (1-\delta_{mi})f_{mi} + \frac{1}{2} \sum_e f_{me} t_i^e + \sum_{en} t_n^e <mn||ie> + \frac{1}{2} \sum_{nef} \tilde{\tau}_{in}^{ef} <mn||ef> \]
+\form#50:\[ F_{me} = f_{me} + \sum_{nf} t_n^f <mn||ef> \]
+\form#51:\[ F'_{ae} = F_{ae} - \frac{1}{2} \sum_m t_m^a F_{me} \]
+\form#52:\[ F'_{mi} = F_{mi} + \frac{1}{2} \sum_e t_i^e F_{me} \]
+\form#53:\[ \frac{1}{4} \sum_{mnef} t_{imn}^{aef} <mn||ef> \]
+\form#54:\[ \frac{1}{4} \sum_{mnef} t_{imn}^{aef} <mn||ef> + \sum_{mNeF} t_{imN}^{aeF} <mN|eF> + \frac{1}{4} \sum_{MNEF} t_{iMN}^{aEF} <MN||EF>\rightarrow \{ \bar{H}_{i}^{a} \} \]
+\form#55:\[ \frac{1}{4} \sum_{mnef} t_{mnI}^{efA} <mn||ef> + \sum_{mNeF} t_{mNI}^{eFA} <mN|eF> + \frac{1}{4} \sum_{MNEF} t_{MNI}^{EFA} <MN||EF>\rightarrow \{ \bar{H}_{I}^{A} \} \]
+\form#56:\[ -\frac{1}{2} P(ij)\sum_{mne} t_{imn}^{abe} W_{mnje} \]
+\form#57:\[ \frac{1}{2}\sum_{mne} t_{imn}^{abe} W_{mnje} \rightarrow \{ -\bar{H}_{ij}^{ab},\bar{H}_{ji}^{ab} \} \]
+\form#58:\[ \sum_{mNE} t_{imN}^{abE} W_{mNjE} \rightarrow \{ -\bar{H}_{ij}^{ab},\bar{H}_{ji}^{ab} \} \]
+\form#59:\[ -\frac{1}{2} P(ij)\sum_{mne} t_{imn}^{aBe} W_{mnJe} \]
+\form#60:\[ \sum_{Mne} t_{inM}^{aeB} W_{MnJe} \rightarrow \{ -\bar{H}_{iJ}^{aB} \} \]
+\form#61:\[ \sum_{mNe} t_{mNJ}^{aBE} W_{mNiE} \rightarrow \{ \bar{H}_{iJ}^{aB} \} \]
+\form#62:\[ \frac{1}{2} \sum_{mne} t_{mnJ}^{aeB} W_{mnie} \rightarrow \{ -\bar{H}_{iJ}^{aB} \} \]
+\form#63:\[ \frac{1}{2} \sum_{NME} t_{iNM}^{aBE} W_{MNJE} \rightarrow \{ \bar{H}_{iJ}^{aB} \} \]
+\form#64:\[ -\frac{1}{2} P(IJ)\sum_{mne} t_{Imn}^{ABe} W_{mnJe} \]
+\form#65:\[ \sum_{Mne} t_{nMI}^{eAB} W_{MnJe} \rightarrow \{\bar{H}_{IJ}^{AB},-\bar{H}_{JI}^{AB} \} \]
+\form#66:\[ \frac{1}{2}\sum_{MNE} t_{IMN}^{ABE} W_{MNJE} \rightarrow \{ -\bar{H}_{IJ}^{AB},\bar{H}_{JI}^{AB} \} \]
+\form#67:\[ \sum_{me} t_{ijm}^{abe} F''_{me} \]
+\form#68:\[ \sum_{me} t_{ijm}^{abe} F''_{me} + \sum_{ME} t_{ijM}^{abE} F''_{ME} \rightarrow \{ \bar{H}_{ij}^{ab} \} \]
+\form#69:\[ \sum_{me} t_{imJ}^{aeB} F''_{me} + \sum_{ME} t_{iMJ}^{aEB} F''_{ME} \rightarrow \{ \bar{H}_{iJ}^{aB} \} \]
+\form#70:\[ \sum_{me} t_{mIJ}^{eAB} F''_{me} + \sum_{ME} t_{MIJ}^{EAB} F''_{ME} \rightarrow \{ \bar{H}_{IJ}^{AB} \} \]
+\form#71:\[ \tau_{ij}^{ab} = t_{ij}^{ab} + t_i^a t_j^b - t_i^b t_j^a \]
+\form#72:\[ \tilde{\tau}_{ij}^{ab} = t_{ij}^{ab} + \frac{1}{2} (t_i^a t_j^b - t_i^b t_j^a) \]
+\form#73:\[ \hat{\tau}_{ij}^{ab} = \frac{1}{2} t_{ij}^{ab} + t_i^a t_j^b \]

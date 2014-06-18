@@ -1,0 +1,6 @@
+<map id="psi::Matrix::triplet" name="psi::Matrix::triplet">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a0af8a4c263473fd49f5a04d68652e009" title="psi::Matrix::doublet" alt="" coords="176,56,309,83"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="360,5,483,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a2dba13c45127354c9f75ef576f49269b" title="Default constructor, zeros everything out." alt="" coords="358,56,485,83"/>
+<area shape="rect" id="node5" href="$namespacepsi.html#a1112df35ff9d2b780efb0c24662f4fbe" title="psi::C_DGEMM" alt="" coords="364,107,479,133"/>
+</map>

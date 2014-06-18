@@ -1,0 +1,6 @@
+<map id="yeti::DataStorageNode" name="yeti::DataStorageNode">
+<area shape="rect" id="node2" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; DataStorage\lNode \&gt;" alt="" coords="5,147,179,189"/>
+<area shape="rect" id="node3" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; T \&gt;" alt="" coords="106,5,227,32"/>
+<area shape="rect" id="node5" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; StorageBlock \&gt;" alt="" coords="138,96,328,123"/>
+<area shape="rect" id="node4" href="$classyeti_1_1StorageBlock.html" title="yeti::StorageBlock" alt="" coords="134,213,263,240"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="psi::fnocc::DFCoupledCluster" name="psi::fnocc::DFCoupledCluster">
+<area shape="rect" id="node2" href="$classpsi_1_1fnocc_1_1CoupledCluster.html" title="psi::fnocc::CoupledCluster" alt="" coords="1025,501,1202,528"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Wavefunction.html" title="Simple wavefunction base class." alt="" coords="725,455,851,481"/>
+<area shape="rect" id="node4" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::MatrixFactory \&gt;" alt="" coords="354,150,497,191"/>
+<area shape="rect" id="node5" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt; T \&gt;" alt="" coords="5,439,160,465"/>
+<area shape="rect" id="node6" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::Chkpt \&gt;" alt="" coords="360,215,491,257"/>
+<area shape="rect" id="node7" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::IntegralFactory \&gt;" alt="" coords="350,281,501,322"/>
+<area shape="rect" id="node9" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::Wavefunction \&gt;" alt="" coords="354,398,497,439"/>
+<area shape="rect" id="node10" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::PSIO \&gt;" alt="" coords="360,463,491,505"/>
+<area shape="rect" id="node11" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::SOBasisSet \&gt;" alt="" coords="358,529,493,570"/>
+<area shape="rect" id="node13" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::BasisSet \&gt;" alt="" coords="360,646,491,687"/>
+<area shape="rect" id="node14" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::Matrix \&gt;" alt="" coords="360,961,491,1002"/>
+<area shape="rect" id="node15" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::Molecule \&gt;" alt="" coords="360,711,491,753"/>
+<area shape="rect" id="node17" href="$classboost_1_1shared__ptr.html" title="boost::shared_ptr\&lt;\l psi::Vector \&gt;" alt="" coords="360,85,491,126"/>
+<area shape="rect" id="node8" href="$classpsi_1_1Options.html" title="psi::Options" alt="" coords="379,347,471,373"/>
+<area shape="rect" id="node12" href="$classpsi_1_1Dimension.html" title="psi::Dimension" alt="" coords="371,595,480,621"/>
+<area shape="rect" id="node18" href="$structpsi_1_1fnocc_1_1CoupledCluster_1_1CCTask.html" title="cc/qci/mp task" alt="" coords="699,541,877,582"/>
+<area shape="rect" id="node19" href="$structpsi_1_1fnocc_1_1CoupledCluster_1_1CCTaskParams.html" title="task parameters &#45; not used currently" alt="" coords="699,389,877,430"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="yeti::Tensor" name="yeti::Tensor">
+<area shape="rect" id="node2" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; Tensor \&gt;" alt="" coords="5,147,157,173"/>
+<area shape="rect" id="node3" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; T \&gt;" alt="" coords="77,5,197,32"/>
+<area shape="rect" id="node9" href="$classyeti_1_1Malloc.html" title="yeti::Malloc\&lt; ThreadLock \&gt;" alt="" coords="119,96,300,123"/>
+<area shape="rect" id="node4" href="$classyeti_1_1YetiRuntimeCountable.html" title="yeti::YetiRuntimeCountable" alt="" coords="119,381,301,408"/>
+<area shape="rect" id="node5" href="$classsmartptr_1_1Countable.html" title="smartptr::Countable" alt="" coords="323,296,460,323"/>
+<area shape="rect" id="node6" href="$classyeti_1_1YetiThreadedRuntimeObject.html" title="yeti::YetiThreadedRuntime\lObject" alt="" coords="122,289,299,330"/>
+<area shape="rect" id="node7" href="$classyeti_1_1YetiRuntimeObject.html" title="yeti::YetiRuntimeObject" alt="" coords="293,197,453,224"/>
+<area shape="rect" id="node8" href="$classyeti_1_1ThreadLock.html" title="yeti::ThreadLock" alt="" coords="150,197,268,224"/>
+</map>

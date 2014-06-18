@@ -1,0 +1,8 @@
+<map id="psi::Matrix::collapse" name="psi::Matrix::collapse">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a2dba13c45127354c9f75ef576f49269b" title="Default constructor, zeros everything out." alt="" coords="193,5,319,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a1a2168c5e0a0b8b003dae927e4050c7b" title="Returns the total number of rows." alt="" coords="197,56,315,83"/>
+<area shape="rect" id="node6" href="$classpsi_1_1Matrix.html#aa37b776debf539816ecfb7298e4f5484" title="Returns the total number of columns." alt="" coords="199,107,313,133"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a0acfcfb5d8cb154b3220989ac55589bd" title="Returns the number of irreps." alt="" coords="373,81,496,108"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Matrix.html#a9e517cfa7db99a049c4c2f1324286bbf" title="Returns the rows in irrep h." alt="" coords="368,31,501,57"/>
+<area shape="rect" id="node7" href="$classpsi_1_1Matrix.html#af77ccf2eab7f3eed614c44492e9598d4" title="Returns the cols in irrep h." alt="" coords="370,132,499,159"/>
+</map>

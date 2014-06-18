@@ -1,0 +1,8 @@
+<map id="yeti::PermutationSet::add" name="yeti::PermutationSet::add">
+<area shape="rect" id="node2" href="$classyeti_1_1PermutationSet.html#af438d4c3807fc11953c1b7b2d7981d99" title="yeti::PermutationSet\l::add_and_expand" alt="" coords="227,5,368,46"/>
+<area shape="rect" id="node3" href="$classyeti_1_1PermutationSet.html#a0694285eecdc063e22edd301a6881450" title="yeti::PermutationSet\l::union_set" alt="" coords="227,70,368,111"/>
+<area shape="rect" id="node5" href="$classyeti_1_1PermutationSet.html#a2423eba1eaf8c6282950f478fa0e0132" title="yeti::PermutationSet\l::compressed_subset" alt="" coords="224,135,371,177"/>
+<area shape="rect" id="node7" href="$classyeti_1_1PermutationSet.html#a51460eb18587e27b89cf0b7ec0461b0d" title="yeti::PermutationSet\l::close" alt="" coords="227,201,368,242"/>
+<area shape="rect" id="node4" href="$classyeti_1_1PermutationGroup.html#ac82d88950a1684f76c9cf3a76df9ea7a" title="yeti::PermutationGroup\l::union_grp" alt="" coords="419,70,575,111"/>
+<area shape="rect" id="node6" href="$classyeti_1_1PermutationGroup.html#a40ba59007d3bd6ae4784f202fb3a0cf5" title="yeti::PermutationGroup\l::compressed_subgrp" alt="" coords="419,135,575,177"/>
+</map>

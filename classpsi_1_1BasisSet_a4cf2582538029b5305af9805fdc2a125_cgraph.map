@@ -1,0 +1,13 @@
+<map id="psi::BasisSet::BasisSet" name="psi::BasisSet::BasisSet">
+<area shape="rect" id="node2" href="$classpsi_1_1BasisSet.html#a8eb9dde2f8ddfd1cabb640af76b388cf" title="psi::BasisSet::initialize\l_singletons" alt="" coords="228,5,383,46"/>
+<area shape="rect" id="node3" href="$classpsi_1_1BasisSet.html#afbb927bc76c74ff1f9aa8a46f33df75c" title="psi::BasisSet::shell" alt="" coords="238,71,373,97"/>
+<area shape="rect" id="node4" href="$classpsi_1_1ShellInfo.html#a05ffe868219297c20cfc03d1d6e560d5" title="The number of primitive Gaussians." alt="" coords="224,121,387,148"/>
+<area shape="rect" id="node5" href="$classpsi_1_1ShellInfo.html#a4f16f49a8e274317544a09c28dae5248" title="Returns the exponent of the given primitive." alt="" coords="242,172,369,199"/>
+<area shape="rect" id="node6" href="$classpsi_1_1ShellInfo.html#a56a54a9df27f39614e83d46e52bd8160" title="Return coefficient of pi&#39;th primitive." alt="" coords="240,223,371,249"/>
+<area shape="rect" id="node7" href="$classpsi_1_1ShellInfo.html#a78c4ec60cfc5f8afc6ad7b9fd8c745c0" title="Return unnormalized coefficient of pi&#39;th primitive." alt="" coords="216,273,395,300"/>
+<area shape="rect" id="node8" href="$classpsi_1_1ShellInfo.html#a42c175a6fa492126b93329c5653f2bbd" title="Return ERD normalized coefficient of pi&#39;th primitive." alt="" coords="227,324,383,351"/>
+<area shape="rect" id="node9" href="$classpsi_1_1ShellInfo.html#ae0c96dac268519b913e00ac0dcdd0bfd" title="Total number of functions if this shell was Cartesian." alt="" coords="222,375,389,401"/>
+<area shape="rect" id="node10" href="$classpsi_1_1ShellInfo.html#adaf8f3809537cf2caf5c8328214e9172" title="Total number of basis functions." alt="" coords="226,425,385,452"/>
+<area shape="rect" id="node11" href="$classpsi_1_1ShellInfo.html#af9d64ae55564b5559518b561716d122a" title="The angular momentum of the given contraction." alt="" coords="243,476,367,503"/>
+<area shape="rect" id="node12" href="$classpsi_1_1ShellInfo.html#a2a2285b470b900ee6bb5044ecea5897b" title="Returns true if contraction is pure." alt="" coords="231,527,379,553"/>
+</map>

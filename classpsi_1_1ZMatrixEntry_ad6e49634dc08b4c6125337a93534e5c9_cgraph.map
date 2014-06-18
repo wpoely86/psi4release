@@ -1,0 +1,5 @@
+<map id="psi::ZMatrixEntry::set_coordinates" name="psi::ZMatrixEntry::set_coordinates">
+<area shape="rect" id="node2" href="$classpsi_1_1CoordEntry.html#aa815e051c9df76a3c6a82d2c8e0ba643" title="Computes the distance between two sets of coordinates." alt="" coords="185,5,311,32"/>
+<area shape="rect" id="node3" href="$classpsi_1_1CoordEntry.html#ad13d2240fea3b40319a22d2a9c6d58e8" title="Computes the angle (in rad.) between three sets of coordinates." alt="" coords="184,56,312,83"/>
+<area shape="rect" id="node4" href="$classpsi_1_1CoordEntry.html#ae30a478e2e0bc119a3728b2a55e6413b" title="Computes the dihedral (in rad.) between four sets of coordinates." alt="" coords="184,107,312,133"/>
+</map>

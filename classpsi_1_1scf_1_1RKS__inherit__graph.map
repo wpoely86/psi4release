@@ -1,0 +1,6 @@
+<map id="psi::scf::RKS" name="psi::scf::RKS">
+<area shape="rect" id="node2" href="$classpsi_1_1scf_1_1RHF.html" title="psi::scf::RHF" alt="" coords="17,155,119,181"/>
+<area shape="rect" id="node3" href="$classpsi_1_1scf_1_1HF.html" title="psi::scf::HF" alt="" coords="23,80,113,107"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Wavefunction.html" title="Simple wavefunction base class." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node5" href="$classpsi_1_1scf_1_1KS.html" title="psi::scf::KS" alt="" coords="143,155,233,181"/>
+</map>

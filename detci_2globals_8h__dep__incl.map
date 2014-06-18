@@ -1,0 +1,40 @@
+<map id="globals.h" name="globals.h">
+<area shape="rect" id="node2" href="$b2brepl_8cc.html" title="Contains code to do block&#45;to&#45;block single replacement lists." alt="" coords="5,80,88,107"/>
+<area shape="rect" id="node3" href="$calc__d_8cc.html" title="Enter brief description of file here." alt="" coords="113,80,191,107"/>
+<area shape="rect" id="node4" href="$calc__hd__block_8cc.html" title="Enter brief description of file here." alt="" coords="216,80,339,107"/>
+<area shape="rect" id="node5" href="$calc__pt__block_8cc.html" title="Enter brief description of file here." alt="" coords="363,80,483,107"/>
+<area shape="rect" id="node6" href="$civect_8cc.html" title="Code for the CI vector class." alt="" coords="507,80,581,107"/>
+<area shape="rect" id="node7" href="$compute__cc_8cc.html" title="Arbitrary&#45;order coupled&#45;cluster code." alt="" coords="606,80,716,107"/>
+<area shape="rect" id="node8" href="$detci_8cc.html" title="Determinant&#45;based CI program." alt="" coords="741,80,808,107"/>
+<area shape="rect" id="node9" href="$form__ov_8cc.html" title="Form OV arrays of Bendazzoli and Evangelisti, JCP 98, 3141 (1993)" alt="" coords="833,80,919,107"/>
+<area shape="rect" id="node10" href="$detci_2get__mo__info_8cc.html" title="Enter brief description of file here." alt="" coords="943,80,1053,107"/>
+<area shape="rect" id="node11" href="$graphset_8cc.html" title="Routines needed to maintain the GraphSet Object." alt="" coords="1079,80,1169,107"/>
+<area shape="rect" id="node12" href="$h0block_8cc.html" title="Some code associated with the H0block structure, which does the preconditioning for the Olsen/Davidso..." alt="" coords="1193,80,1279,107"/>
+<area shape="rect" id="node13" href="$import__vector_8cc.html" title="Enter brief description of file here." alt="" coords="1303,80,1421,107"/>
+<area shape="rect" id="node14" href="$detci_2ints_8cc.html" title="Enter brief description of file here." alt="" coords="1447,80,1508,107"/>
+<area shape="rect" id="node15" href="$mitrush__iter_8cc.html" title="Mitrushenkov iterative scheme for RAS CI&#39;s." alt="" coords="1533,80,1640,107"/>
+<area shape="rect" id="node16" href="$mpn_8cc.html" title="Enter brief description of file here." alt="" coords="1665,80,1729,107"/>
+<area shape="rect" id="node17" href="$og__addr_8cc.html" title="Enter brief description of file here." alt="" coords="1754,80,1840,107"/>
+<area shape="rect" id="node18" href="$olsengraph_8cc.html" title="Enter brief description of file here." alt="" coords="1865,80,1967,107"/>
+<area shape="rect" id="node19" href="$olsenupdt_8cc.html" title="Enter brief description of file here." alt="" coords="1992,80,2088,107"/>
+<area shape="rect" id="node20" href="$detci_2opdm_8cc.html" title="Enter brief description of file here." alt="" coords="2112,80,2184,107"/>
+<area shape="rect" id="node21" href="$detci_2params_8cc.html" title="Enter brief description of file here." alt="" coords="2208,80,2291,107"/>
+<area shape="rect" id="node22" href="$printing_8cc.html" title="Enter brief description of file here." alt="" coords="2315,80,2397,107"/>
+<area shape="rect" id="node23" href="$s1_8cc.html" title="Enter brief description of file here." alt="" coords="2422,80,2476,107"/>
+<area shape="rect" id="node24" href="$s1v_8cc.html" title="Enter brief description of file here." alt="" coords="2501,80,2563,107"/>
+<area shape="rect" id="node25" href="$s2_8cc.html" title="Enter brief description of file here." alt="" coords="2587,80,2641,107"/>
+<area shape="rect" id="node26" href="$s2v_8cc.html" title="Enter brief description of file here." alt="" coords="2667,80,2728,107"/>
+<area shape="rect" id="node27" href="$s3_8cc.html" title="Enter brief description of file here." alt="" coords="2753,80,2807,107"/>
+<area shape="rect" id="node28" href="$s3__block__bz_8cc.html" title="Enter brief description of file here." alt="" coords="2831,80,2944,107"/>
+<area shape="rect" id="node29" href="$s3v_8cc.html" title="Enter brief description of file here." alt="" coords="2969,80,3031,107"/>
+<area shape="rect" id="node30" href="$sem_8cc.html" title="Enter brief description of file here." alt="" coords="3055,80,3120,107"/>
+<area shape="rect" id="node31" href="$sem__test_8cc.html" title="Enter brief description of file here." alt="" coords="3145,80,3239,107"/>
+<area shape="rect" id="node32" href="$set__ciblks_8cc.html" title="Enter brief description of file here." alt="" coords="3264,80,3363,107"/>
+<area shape="rect" id="node33" href="$shift_8cc.html" title="Shifts SCF eigenvalues corresponding to SOCC orbitals for ZAPTn." alt="" coords="3387,80,3452,107"/>
+<area shape="rect" id="node34" href="$sigma_8cc.html" title="Routines to compute sigma = H * c." alt="" coords="3477,80,3552,107"/>
+<area shape="rect" id="node35" href="$ssq_8cc.html" title="Compute expectation value of S^2." alt="" coords="3576,80,3637,107"/>
+<area shape="rect" id="node36" href="$stringlist_8cc.html" title="Code to form the CI space as strings with all single replacements." alt="" coords="3662,80,3751,107"/>
+<area shape="rect" id="node37" href="$time_8cc.html" title="DETCI&#45;specific timing routines." alt="" coords="3775,80,3840,107"/>
+<area shape="rect" id="node38" href="$tpdm_8cc.html" title="Compute the two&#45;particle density matrix (TPDM)" alt="" coords="3865,80,3935,107"/>
+<area shape="rect" id="node39" href="$tpool_8cc.html" title="Thread pools." alt="" coords="3959,80,4027,107"/>
+</map>

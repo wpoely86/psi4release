@@ -1,0 +1,6 @@
+<map id="psi::Molecule::create_molecule_from_string" name="psi::Molecule::create_molecule_from_string">
+<area shape="rect" id="node2" href="$classpsi_1_1Molecule.html#a566178cba548f78268a0819943c3b786" title="Gets the geometry units." alt="" coords="214,5,349,32"/>
+<area shape="rect" id="node3" href="$namespacepsi.html#a2c62ee3e6ebd249518cb533e988b9d9c" title="psi::str_to_double" alt="" coords="219,80,344,107"/>
+<area shape="rect" id="node4" href="$namespacepsi.html#a89fe6317a550161d8b053d2d1686c02c" title="psi::str_to_int" alt="" coords="231,155,332,181"/>
+<area shape="rect" id="node5" href="$classpsi_1_1Molecule.html#a3c1802f6c315aef0e46196fa7b6ce090" title="Returns charge of atom." alt="" coords="208,205,355,232"/>
+</map>

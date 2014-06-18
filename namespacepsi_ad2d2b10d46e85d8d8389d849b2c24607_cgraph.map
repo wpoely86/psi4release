@@ -1,0 +1,5 @@
+<map id="psi::benchmark_disk" name="psi::benchmark_disk">
+<area shape="rect" id="node2" href="$classpsi_1_1PSIO.html#a8f4e355e2b12b394eb494da809bd1874" title="Return the global shared object." alt="" coords="197,5,365,32"/>
+<area shape="rect" id="node3" href="$group__CIOMR.html#ga35255b9a71ed5869db7c1c5507923929" title="psi::init_array" alt="" coords="231,56,331,83"/>
+<area shape="rect" id="node4" href="$group__PSIO.html#gacd1b580899ec1cec5064f2cb0058a364" title="psi::psio_get_address" alt="" coords="207,107,356,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="psi::Molecule::get_anchor_atom" name="psi::Molecule::get_anchor_atom">
+<area shape="rect" id="node2" href="$namespacepsi.html#a89fe6317a550161d8b053d2d1686c02c" title="psi::str_to_int" alt="" coords="207,29,308,56"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Molecule.html#aa462a921ed5cb5cac44a22609fdc39b7" title="Number of all atoms (includes dummies)" alt="" coords="179,80,335,107"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Molecule.html#a3091f601a0f755c5a0354c18243ff04b" title="Returns the original label of the atom as given in the input file (C2, H4)." alt="" coords="190,131,325,157"/>
+</map>

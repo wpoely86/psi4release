@@ -1,0 +1,15 @@
+<map id="psi::benchmark_blas3" name="psi::benchmark_blas3">
+<area shape="rect" id="node2" href="$group__CIOMR.html#ga35255b9a71ed5869db7c1c5507923929" title="psi::init_array" alt="" coords="214,5,314,32"/>
+<area shape="rect" id="node3" href="$group__CIOMR.html#gae22ab2f8c96f4c132c42cd405c805841" title="psi::init_int_array" alt="" coords="203,56,325,83"/>
+<area shape="rect" id="node4" href="$namespacepsi.html#a1112df35ff9d2b780efb0c24662f4fbe" title="psi::C_DGEMM" alt="" coords="207,107,321,133"/>
+<area shape="rect" id="node5" href="$namespacepsi.html#a0e145bee7a002ac8c18e937785bd9458" title="psi::C_DSYMM" alt="" coords="207,157,321,184"/>
+<area shape="rect" id="node6" href="$group__QT.html#gada1f89a2db3689c3e7482ea755b49b27" title="psi::C_DCOPY" alt="" coords="208,208,320,235"/>
+<area shape="rect" id="node7" href="$group__QT.html#ga53680dc5cf2b74b21d23aed254e09eec" title="psi::C_DPOTRF" alt="" coords="205,259,323,285"/>
+<area shape="rect" id="node8" href="$group__QT.html#ga9140c52de648ece9bdf664b8770365ef" title="psi::C_DPOTRS" alt="" coords="204,309,324,336"/>
+<area shape="rect" id="node9" href="$group__QT.html#ga369ad7d6d71f540b359347b1b70b4e21" title="psi::C_DPOTRI" alt="" coords="207,360,321,387"/>
+<area shape="rect" id="node10" href="$group__QT.html#ga5a32fab1a77d1ea47a9145a8e124ea9c" title="psi::C_DGETRF" alt="" coords="205,411,323,437"/>
+<area shape="rect" id="node11" href="$namespacepsi.html#aa4297da7ca4fc2c7aa1234927a5bb111" title="psi::C_DGETRS" alt="" coords="204,461,324,488"/>
+<area shape="rect" id="node12" href="$group__QT.html#gacf6c02fc0a629aea55fa3ea94885e2ec" title="psi::C_DGETRI" alt="" coords="207,512,321,539"/>
+<area shape="rect" id="node13" href="$group__QT.html#ga61f4d27a7f03785e2090e82f51df475f" title="psi::C_DGESV" alt="" coords="209,563,319,589"/>
+<area shape="rect" id="node14" href="$group__QT.html#gaf4f1317f08bd64d633f20935ba5d8547" title="psi::C_DSYEV" alt="" coords="209,613,319,640"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="psi::sq_to_tri" name="psi::sq_to_tri">
+<area shape="rect" id="node2" href="$classpsi_1_1Matrix.html#a72ce3b0a65b8118bf40ad72b373fc77a" title="psi::Matrix::to_lower\l_triangle" alt="" coords="153,23,293,65"/>
+<area shape="rect" id="node3" href="$classpsi_1_1Matrix.html#a504437ba978cdadc160b0a41e7bdc1b0" title="psi::Matrix::save" alt="" coords="342,5,461,32"/>
+<area shape="rect" id="node4" href="$classpsi_1_1Matrix.html#a5565e99a42eea2302f10857c1dc2b28c" title="psi::Matrix::load" alt="" coords="344,56,459,83"/>
+</map>
